@@ -1,81 +1,66 @@
-# Project 1: Tool-Calling Agent (Week 1-2)
+# Tool-Calling Agent
 
-This is your first agentic AI project. The goal: build an agent that can
-decide *when* it needs a tool, call that tool, and use the result to answer
-a question — instead of just guessing from memory.
+A small AI agent in plain Python. It decides when it needs a tool, calls it,
+and uses the real result to answer — instead of guessing.
 
-This pattern (reason → act → observe → repeat) is called **ReAct**, and it's
-the foundation every agent framework (LangGraph, CrewAI, AutoGen) is built
-on top of. Learn this by hand first, in plain Python, before using a
-framework — it's much easier to debug a framework later if you understand
-what it's doing underneath.
+No framework. The reason → act → observe loop (ReAct) is written out directly,
+which is what LangGraph and similar libraries wrap.
 
-## What this agent can do
+## What it does
 
-- Answer normal questions directly (no tool needed)
-- Decide when a question needs live web info, and search for it
-- Decide when a question needs math, and calculate it precisely instead of
-  guessing (LLMs are bad at arithmetic — this is a real, common failure
-  mode you're fixing)
+- Answers general questions directly, with no tool call
+- Searches the web when a question needs current information
+- Uses a calculator for arithmetic, rather than predicting the number
 
-## Setup (do this once)
+Example run:
 
-### 1. Get an Anthropic API key
+```
+You: What is 847 * 293?
+  [calling calculator({'expression': '847 * 293'})]
 
-1. Go to https://console.anthropic.com and sign up (separate from your
-   Claude Pro subscription — this is billed separately, pay-as-you-go)
-2. Add a small amount of credit — $5 is plenty to build and test this
-   entire project
-3. Go to "API Keys" in the console, create a new key, copy it
-   (starts with `sk-ant-...`)
+Agent: 847 * 293 = 248,171
+```
 
-### 2. Set up your Python environment
+## How it works
 
-Open this folder (`agent-project-01`) in VS Code. Open a terminal inside
-VS Code (`` Ctrl+` `` or `` Cmd+` ``) and run:
+1. The question and the tool definitions go to the model
+2. The model either answers, or asks for a specific tool with specific arguments
+3. If it asks for a tool, `agent.py` runs the real Python function
+4. The result is sent back and the model continues from there
+
+The model never executes anything itself. It plans; the code runs.
+
+## Setup
+
+Requires an Anthropic API key from [console.anthropic.com](https://console.anthropic.com).
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate        # on Windows: venv\Scripts\activate
+source venv/bin/activate          # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-```
-
-### 3. Add your API key
-
-1. Copy `.env.example` to a new file called `.env`
-2. Open `.env` and paste your API key after `ANTHROPIC_API_KEY=`
-3. **Never commit `.env` to GitHub** — it's already in `.gitignore` for you.
-   This is a real security habit recruiters and engineers care about.
-
-### 4. Run it
-
-```bash
+cp .env.example .env               # then add your key to .env
 python agent.py
 ```
 
+`.env` is gitignored and never committed.
+
 ## Files
 
-- `agent.py` — the agent itself, heavily commented
-- `tools.py` — the two tools the agent can use (web search, calculator)
-- `requirements.txt` — Python packages needed
-- `.env.example` — template for your API key (copy to `.env`)
-- `.gitignore` — makes sure your API key never gets pushed to GitHub
+| File | Purpose |
+|---|---|
+| `agent.py` | The ReAct loop and tool definitions |
+| `tools.py` | `web_search` (ddgs) and `calculator` |
+| `requirements.txt` | Dependencies |
+| `.env.example` | Template for the API key |
 
-## What to do after it runs
+## Notes
 
-1. Read `agent.py` top to bottom — every step is commented so you
-   understand *why*, not just *what*
-2. Try asking it: "What's 847 * 392?" (should use the calculator)
-3. Try asking it: "What's the latest news about the Bundesliga?" (should
-   search)
-4. Try asking it: "What is the capital of France?" (should answer directly,
-   no tool)
-5. Once it works, push this to a public GitHub repo with a good README —
-   this becomes portfolio project #1
+The calculator restricts input to digits, operators, parentheses and spaces
+before evaluating, so it can't be used to run arbitrary code.
 
-## Next steps (Week 3-4)
+Web search uses `ddgs`, the current name of the package formerly published as
+`duckduckgo-search`.
 
-Once this works and you understand it, we'll add a vector database and
-build a RAG (retrieval-augmented generation) agent that answers questions
-from your own documents — e.g. your Master's thesis or the air-quality
-dataset from your Flask dashboard project.
+## Next
+
+RAG version with a vector database, answering questions over a real document set.
