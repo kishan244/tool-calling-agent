@@ -69,7 +69,7 @@ python agent.py
 
 ```bash
 pip install pytest
-pytest -q
+python -m pytest -q
 ```
 
 GitHub Actions runs the tests on every push.
