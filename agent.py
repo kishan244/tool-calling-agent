@@ -7,9 +7,10 @@ from tools import AVAILABLE_TOOLS
 
 load_dotenv()
 
-client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+client = Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
 MODEL = "claude-haiku-4-5-20251001"
+MAX_STEPS = 8  # safety stop: the loop can never run forever
 
 TOOL_DEFINITIONS = [
     {
@@ -53,7 +54,7 @@ def run_agent(user_question: str) -> str:
     """Run the reason/act/observe loop until the model returns a text answer."""
     messages = [{"role": "user", "content": user_question}]
 
-    while True:
+    for _ in range(MAX_STEPS):
         response = client.messages.create(
             model=MODEL,
             max_tokens=1024,
@@ -73,16 +74,24 @@ def run_agent(user_question: str) -> str:
         for block in response.content:
             if block.type == "tool_use":
                 print(f"  [calling {block.name}({block.input})]")
-                result = AVAILABLE_TOOLS[block.name](**block.input)
+                tool = AVAILABLE_TOOLS.get(block.name)
+                if tool is None:
+                    result, failed = f"Unknown tool: {block.name}", True
+                else:
+                    result = tool(**block.input)
+                    failed = result.startswith(("Search failed", "Calculation failed"))
                 tool_results.append(
                     {
                         "type": "tool_result",
                         "tool_use_id": block.id,
                         "content": result,
+                        "is_error": failed,
                     }
                 )
 
         messages.append({"role": "user", "content": tool_results})
+
+    return "Stopped: the agent needed more than MAX_STEPS tool calls."
 
 
 if __name__ == "__main__":

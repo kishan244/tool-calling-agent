@@ -1,5 +1,7 @@
 # Tool-Calling Agent
 
+![tests](https://github.com/kishan244/tool-calling-agent/actions/workflows/tests.yml/badge.svg)
+
 A small AI agent in plain Python. It decides when it needs a tool, calls it,
 and uses the real result to answer — instead of guessing.
 
@@ -49,18 +51,25 @@ python agent.py
 | File | Purpose |
 |---|---|
 | `agent.py` | The ReAct loop and tool definitions |
-| `tools.py` | `web_search` (ddgs) and `calculator` |
+| `tools.py` | `web_search` (ddgs) and a safe `calculator` |
+| `tests/` | pytest tests for the calculator |
 | `requirements.txt` | Dependencies |
 | `.env.example` | Template for the API key |
 
-## Notes
+## Safety
 
-The calculator restricts input to digits, operators, parentheses and spaces
-before evaluating, so it can't be used to run arbitrary code.
+- The calculator never uses `eval`. It parses the expression into a syntax tree and only
+  allows numbers and `+ - * / // % **` with brackets, so it can't run code. Huge powers
+  like `9**9**9` are refused so the program can't freeze.
+- The loop stops after `MAX_STEPS` tool calls, so a confused model can't loop forever.
+- Unknown tools and failed tool calls are sent back to the model marked as errors,
+  so it can try another way instead of crashing.
 
-Web search uses `ddgs`, the current name of the package formerly published as
-`duckduckgo-search`.
+## Tests
 
-## Next
+```bash
+pip install pytest
+pytest -q
+```
 
-RAG version with a vector database, answering questions over a real document set.
+GitHub Actions runs the tests on every push.
