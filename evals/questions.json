@@ -1,0 +1,502 @@
+[
+ {
+  "id": "lookup-1",
+  "kind": "lookup",
+  "question": "What share of General Motors's fiscal year 2020 Risk Factors section is about 'Operational & Business Continuity'? Answer in percent.",
+  "answer_type": "number",
+  "answer": 5.1,
+  "expected_tools": [
+   "get_risk_mix"
+  ],
+  "tolerance": 0.6
+ },
+ {
+  "id": "lookup-2",
+  "kind": "lookup",
+  "question": "What share of Microsoft's fiscal year 2019 Risk Factors section is about 'Product & Technology'? Answer in percent.",
+  "answer_type": "number",
+  "answer": 16.0,
+  "expected_tools": [
+   "get_risk_mix"
+  ],
+  "tolerance": 0.6
+ },
+ {
+  "id": "lookup-3",
+  "kind": "lookup",
+  "question": "What share of Alphabet's fiscal year 2021 Risk Factors section is about 'Regulatory & Legal'? Answer in percent.",
+  "answer_type": "number",
+  "answer": 20.6,
+  "expected_tools": [
+   "get_risk_mix"
+  ],
+  "tolerance": 0.6
+ },
+ {
+  "id": "lookup-4",
+  "kind": "lookup",
+  "question": "What share of Microsoft's fiscal year 2023 Risk Factors section is about 'Financial & Credit'? Answer in percent.",
+  "answer_type": "number",
+  "answer": 3.6,
+  "expected_tools": [
+   "get_risk_mix"
+  ],
+  "tolerance": 0.6
+ },
+ {
+  "id": "lookup-5",
+  "kind": "lookup",
+  "question": "What share of Microsoft's fiscal year 2019 Risk Factors section is about 'Operational & Business Continuity'? Answer in percent.",
+  "answer_type": "number",
+  "answer": 4.0,
+  "expected_tools": [
+   "get_risk_mix"
+  ],
+  "tolerance": 0.6
+ },
+ {
+  "id": "lookup-6",
+  "kind": "lookup",
+  "question": "What share of Goldman Sachs's fiscal year 2019 Risk Factors section is about 'Financial & Credit'? Answer in percent.",
+  "answer_type": "number",
+  "answer": 25.8,
+  "expected_tools": [
+   "get_risk_mix"
+  ],
+  "tolerance": 0.6
+ },
+ {
+  "id": "lookup-7",
+  "kind": "lookup",
+  "question": "What share of NVIDIA's fiscal year 2023 Risk Factors section is about 'Operational & Business Continuity'? Answer in percent.",
+  "answer_type": "number",
+  "answer": 9.1,
+  "expected_tools": [
+   "get_risk_mix"
+  ],
+  "tolerance": 0.6
+ },
+ {
+  "id": "lookup-8",
+  "kind": "lookup",
+  "question": "What share of Microsoft's fiscal year 2025 Risk Factors section is about 'Regulatory & Legal'? Answer in percent.",
+  "answer_type": "number",
+  "answer": 12.7,
+  "expected_tools": [
+   "get_risk_mix"
+  ],
+  "tolerance": 0.6
+ },
+ {
+  "id": "compare-1",
+  "kind": "compare",
+  "question": "In fiscal year 2024, which company gave a larger share of its Risk Factors section to 'Stock & Governance': Alphabet or Coca-Cola?",
+  "answer_type": "choice",
+  "answer": "Alphabet",
+  "expected_tools": [
+   "get_risk_mix",
+   "rank_companies"
+  ],
+  "wrong": "Coca-Cola"
+ },
+ {
+  "id": "compare-2",
+  "kind": "compare",
+  "question": "In fiscal year 2023, which company gave a larger share of its Risk Factors section to 'Regulatory & Legal': ExxonMobil or Microsoft?",
+  "answer_type": "choice",
+  "answer": "Microsoft",
+  "expected_tools": [
+   "get_risk_mix",
+   "rank_companies"
+  ],
+  "wrong": "ExxonMobil"
+ },
+ {
+  "id": "compare-3",
+  "kind": "compare",
+  "question": "In fiscal year 2019, which company gave a larger share of its Risk Factors section to 'Regulatory & Legal': Meta or UnitedHealth?",
+  "answer_type": "choice",
+  "answer": "UnitedHealth",
+  "expected_tools": [
+   "get_risk_mix",
+   "rank_companies"
+  ],
+  "wrong": "Meta"
+ },
+ {
+  "id": "compare-4",
+  "kind": "compare",
+  "question": "In fiscal year 2025, which company gave a larger share of its Risk Factors section to 'Stock & Governance': Tesla or UnitedHealth?",
+  "answer_type": "choice",
+  "answer": "Tesla",
+  "expected_tools": [
+   "get_risk_mix",
+   "rank_companies"
+  ],
+  "wrong": "UnitedHealth"
+ },
+ {
+  "id": "compare-5",
+  "kind": "compare",
+  "question": "In fiscal year 2023, which company gave a larger share of its Risk Factors section to 'Regulatory & Legal': Amazon or Alphabet?",
+  "answer_type": "choice",
+  "answer": "Amazon",
+  "expected_tools": [
+   "get_risk_mix",
+   "rank_companies"
+  ],
+  "wrong": "Alphabet"
+ },
+ {
+  "id": "compare-6",
+  "kind": "compare",
+  "question": "In fiscal year 2019, which company gave a larger share of its Risk Factors section to 'Regulatory & Legal': NVIDIA or ExxonMobil?",
+  "answer_type": "choice",
+  "answer": "NVIDIA",
+  "expected_tools": [
+   "get_risk_mix",
+   "rank_companies"
+  ],
+  "wrong": "ExxonMobil"
+ },
+ {
+  "id": "compare-7",
+  "kind": "compare",
+  "question": "In fiscal year 2024, which company gave a larger share of its Risk Factors section to 'Product & Technology': Walmart or Pfizer?",
+  "answer_type": "choice",
+  "answer": "Pfizer",
+  "expected_tools": [
+   "get_risk_mix",
+   "rank_companies"
+  ],
+  "wrong": "Walmart"
+ },
+ {
+  "id": "compare-8",
+  "kind": "compare",
+  "question": "In fiscal year 2022, which company gave a larger share of its Risk Factors section to 'Regulatory & Legal': Goldman Sachs or General Motors?",
+  "answer_type": "choice",
+  "answer": "Goldman Sachs",
+  "expected_tools": [
+   "get_risk_mix",
+   "rank_companies"
+  ],
+  "wrong": "General Motors"
+ },
+ {
+  "id": "change-1",
+  "kind": "change",
+  "question": "By how many percentage points did the 'Regulatory & Legal' share of NVIDIA's Risk Factors section change from fiscal year 2021 to 2023? Give a signed number (negative if it fell).",
+  "answer_type": "number",
+  "answer": -3.8,
+  "expected_tools": [
+   "get_risk_mix",
+   "calculator"
+  ],
+  "tolerance": 0.7
+ },
+ {
+  "id": "change-2",
+  "kind": "change",
+  "question": "By how many percentage points did the 'International & Geopolitical' share of Visa's Risk Factors section change from fiscal year 2022 to 2024? Give a signed number (negative if it fell).",
+  "answer_type": "number",
+  "answer": -10.5,
+  "expected_tools": [
+   "get_risk_mix",
+   "calculator"
+  ],
+  "tolerance": 0.7
+ },
+ {
+  "id": "change-3",
+  "kind": "change",
+  "question": "By how many percentage points did the 'Operational & Business Continuity' share of Visa's Risk Factors section change from fiscal year 2021 to 2023? Give a signed number (negative if it fell).",
+  "answer_type": "number",
+  "answer": 3.1,
+  "expected_tools": [
+   "get_risk_mix",
+   "calculator"
+  ],
+  "tolerance": 0.7
+ },
+ {
+  "id": "change-4",
+  "kind": "change",
+  "question": "By how many percentage points did the 'Cybersecurity & Data Privacy' share of Amazon's Risk Factors section change from fiscal year 2020 to 2024? Give a signed number (negative if it fell).",
+  "answer_type": "number",
+  "answer": -3.4,
+  "expected_tools": [
+   "get_risk_mix",
+   "calculator"
+  ],
+  "tolerance": 0.7
+ },
+ {
+  "id": "change-5",
+  "kind": "change",
+  "question": "By how many percentage points did the 'Regulatory & Legal' share of Chevron's Risk Factors section change from fiscal year 2020 to 2021? Give a signed number (negative if it fell).",
+  "answer_type": "number",
+  "answer": 13.0,
+  "expected_tools": [
+   "get_risk_mix",
+   "calculator"
+  ],
+  "tolerance": 0.7
+ },
+ {
+  "id": "change-6",
+  "kind": "change",
+  "question": "By how many percentage points did the 'Regulatory & Legal' share of Apple's Risk Factors section change from fiscal year 2020 to 2023? Give a signed number (negative if it fell).",
+  "answer_type": "number",
+  "answer": 14.4,
+  "expected_tools": [
+   "get_risk_mix",
+   "calculator"
+  ],
+  "tolerance": 0.7
+ },
+ {
+  "id": "change-7",
+  "kind": "change",
+  "question": "By how many percentage points did the 'Macroeconomic & Market' share of Chevron's Risk Factors section change from fiscal year 2019 to 2022? Give a signed number (negative if it fell).",
+  "answer_type": "number",
+  "answer": -7.9,
+  "expected_tools": [
+   "get_risk_mix",
+   "calculator"
+  ],
+  "tolerance": 0.7
+ },
+ {
+  "id": "change-8",
+  "kind": "change",
+  "question": "By how many percentage points did the 'Stock & Governance' share of Tesla's Risk Factors section change from fiscal year 2019 to 2025? Give a signed number (negative if it fell).",
+  "answer_type": "number",
+  "answer": -3.1,
+  "expected_tools": [
+   "get_risk_mix",
+   "calculator"
+  ],
+  "tolerance": 0.7
+ },
+ {
+  "id": "rank-1",
+  "kind": "rank",
+  "question": "Which of the companies in the data gave the largest share of its fiscal year 2024 Risk Factors section to 'International & Geopolitical'?",
+  "answer_type": "choice",
+  "answer": "NVIDIA",
+  "expected_tools": [
+   "rank_companies"
+  ],
+  "wrong": ""
+ },
+ {
+  "id": "rank-2",
+  "kind": "rank",
+  "question": "Which of the companies in the data gave the largest share of its fiscal year 2023 Risk Factors section to 'Macroeconomic & Market'?",
+  "answer_type": "choice",
+  "answer": "ExxonMobil",
+  "expected_tools": [
+   "rank_companies"
+  ],
+  "wrong": ""
+ },
+ {
+  "id": "rank-3",
+  "kind": "rank",
+  "question": "Which of the companies in the data gave the largest share of its fiscal year 2020 Risk Factors section to 'Macroeconomic & Market'?",
+  "answer_type": "choice",
+  "answer": "Chevron",
+  "expected_tools": [
+   "rank_companies"
+  ],
+  "wrong": ""
+ },
+ {
+  "id": "rank-4",
+  "kind": "rank",
+  "question": "Which of the companies in the data gave the largest share of its fiscal year 2025 Risk Factors section to 'Financial & Credit'?",
+  "answer_type": "choice",
+  "answer": "Goldman Sachs",
+  "expected_tools": [
+   "rank_companies"
+  ],
+  "wrong": ""
+ },
+ {
+  "id": "rank-5",
+  "kind": "rank",
+  "question": "Which of the companies in the data gave the largest share of its fiscal year 2023 Risk Factors section to 'Product & Technology'?",
+  "answer_type": "choice",
+  "answer": "Pfizer",
+  "expected_tools": [
+   "rank_companies"
+  ],
+  "wrong": ""
+ },
+ {
+  "id": "rank-6",
+  "kind": "rank",
+  "question": "Which of the companies in the data gave the largest share of its fiscal year 2025 Risk Factors section to 'Product & Technology'?",
+  "answer_type": "choice",
+  "answer": "Pfizer",
+  "expected_tools": [
+   "rank_companies"
+  ],
+  "wrong": ""
+ },
+ {
+  "id": "keyword-1",
+  "kind": "keyword",
+  "question": "How many passages of General Motors's fiscal year 2024 Risk Factors section mention 'cyber'?",
+  "answer_type": "number",
+  "answer": 5,
+  "expected_tools": [
+   "count_keyword"
+  ],
+  "tolerance": 0
+ },
+ {
+  "id": "keyword-2",
+  "kind": "keyword",
+  "question": "How many passages of Chevron's fiscal year 2025 Risk Factors section mention 'cyber'?",
+  "answer_type": "number",
+  "answer": 5,
+  "expected_tools": [
+   "count_keyword"
+  ],
+  "tolerance": 0
+ },
+ {
+  "id": "keyword-3",
+  "kind": "keyword",
+  "question": "How many passages of Coca-Cola's fiscal year 2025 Risk Factors section mention 'shortage'?",
+  "answer_type": "number",
+  "answer": 4,
+  "expected_tools": [
+   "count_keyword"
+  ],
+  "tolerance": 0
+ },
+ {
+  "id": "keyword-4",
+  "kind": "keyword",
+  "question": "How many passages of Coca-Cola's fiscal year 2020 Risk Factors section mention 'sanctions'?",
+  "answer_type": "number",
+  "answer": 3,
+  "expected_tools": [
+   "count_keyword"
+  ],
+  "tolerance": 0
+ },
+ {
+  "id": "keyword-5",
+  "kind": "keyword",
+  "question": "How many passages of Boeing's fiscal year 2024 Risk Factors section mention 'tariff'?",
+  "answer_type": "number",
+  "answer": 4,
+  "expected_tools": [
+   "count_keyword"
+  ],
+  "tolerance": 0
+ },
+ {
+  "id": "keyword-6",
+  "kind": "keyword",
+  "question": "How many passages of Apple's fiscal year 2025 Risk Factors section mention 'climate'?",
+  "answer_type": "number",
+  "answer": 2,
+  "expected_tools": [
+   "count_keyword"
+  ],
+  "tolerance": 0
+ },
+ {
+  "id": "not_covered-1",
+  "kind": "not_covered",
+  "question": "What share of Netflix's fiscal year 2022 Risk Factors section is about 'International & Geopolitical'? Answer in percent.",
+  "answer_type": "not_available",
+  "answer": "NOT_AVAILABLE",
+  "expected_tools": [
+   "get_risk_mix",
+   "list_companies"
+  ]
+ },
+ {
+  "id": "not_covered-2",
+  "kind": "not_covered",
+  "question": "What share of Intel's fiscal year 2020 Risk Factors section is about 'Strategy & M&A'? Answer in percent.",
+  "answer_type": "not_available",
+  "answer": "NOT_AVAILABLE",
+  "expected_tools": [
+   "get_risk_mix",
+   "list_companies"
+  ]
+ },
+ {
+  "id": "not_covered-3",
+  "kind": "not_covered",
+  "question": "What share of Ford's fiscal year 2023 Risk Factors section is about 'Macroeconomic & Market'? Answer in percent.",
+  "answer_type": "not_available",
+  "answer": "NOT_AVAILABLE",
+  "expected_tools": [
+   "get_risk_mix",
+   "list_companies"
+  ]
+ },
+ {
+  "id": "not_covered-4",
+  "kind": "not_covered",
+  "question": "What share of Visa's fiscal year 2012 Risk Factors section is about 'Supply Chain & Manufacturing'? Answer in percent.",
+  "answer_type": "not_available",
+  "answer": "NOT_AVAILABLE",
+  "expected_tools": [
+   "get_risk_mix",
+   "list_companies"
+  ]
+ },
+ {
+  "id": "not_covered-5",
+  "kind": "not_covered",
+  "question": "What share of Boeing's fiscal year 2016 Risk Factors section is about 'Macroeconomic & Market'? Answer in percent.",
+  "answer_type": "not_available",
+  "answer": "NOT_AVAILABLE",
+  "expected_tools": [
+   "get_risk_mix",
+   "list_companies"
+  ]
+ },
+ {
+  "id": "arithmetic-1",
+  "kind": "arithmetic",
+  "question": "What is 847 * 293?",
+  "answer_type": "number",
+  "answer": 248171,
+  "expected_tools": [
+   "calculator"
+  ],
+  "tolerance": 0
+ },
+ {
+  "id": "arithmetic-2",
+  "kind": "arithmetic",
+  "question": "What is (1234 + 5678) * 91?",
+  "answer_type": "number",
+  "answer": 628992,
+  "expected_tools": [
+   "calculator"
+  ],
+  "tolerance": 0
+ },
+ {
+  "id": "arithmetic-3",
+  "kind": "arithmetic",
+  "question": "What is 987654 - 123456 * 7?",
+  "answer_type": "number",
+  "answer": 123462,
+  "expected_tools": [
+   "calculator"
+  ],
+  "tolerance": 0
+ }
+]
