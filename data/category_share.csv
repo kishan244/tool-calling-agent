@@ -1,0 +1,1873 @@
+ticker,company,sector,year,category,passages,share
+AAPL,Apple,Technology,2019,Macroeconomic & Market,2,0.046511627906976744
+AAPL,Apple,Technology,2019,Financial & Credit,2,0.046511627906976744
+AAPL,Apple,Technology,2019,Regulatory & Legal,6,0.13953488372093023
+AAPL,Apple,Technology,2019,Cybersecurity & Data Privacy,6,0.13953488372093023
+AAPL,Apple,Technology,2019,Supply Chain & Manufacturing,4,0.09302325581395349
+AAPL,Apple,Technology,2019,Competition & Demand,6,0.13953488372093023
+AAPL,Apple,Technology,2019,Product & Technology,10,0.23255813953488372
+AAPL,Apple,Technology,2019,International & Geopolitical,3,0.06976744186046512
+AAPL,Apple,Technology,2019,People & Key Personnel,0,0.0
+AAPL,Apple,Technology,2019,Stock & Governance,1,0.023255813953488372
+AAPL,Apple,Technology,2019,Operational & Business Continuity,2,0.046511627906976744
+AAPL,Apple,Technology,2019,Climate & ESG,0,0.0
+AAPL,Apple,Technology,2019,Strategy & M&A,1,0.023255813953488372
+AAPL,Apple,Technology,2020,Macroeconomic & Market,3,0.0625
+AAPL,Apple,Technology,2020,Financial & Credit,2,0.041666666666666664
+AAPL,Apple,Technology,2020,Regulatory & Legal,6,0.125
+AAPL,Apple,Technology,2020,Cybersecurity & Data Privacy,6,0.125
+AAPL,Apple,Technology,2020,Supply Chain & Manufacturing,4,0.08333333333333333
+AAPL,Apple,Technology,2020,Competition & Demand,6,0.125
+AAPL,Apple,Technology,2020,Product & Technology,10,0.20833333333333334
+AAPL,Apple,Technology,2020,International & Geopolitical,4,0.08333333333333333
+AAPL,Apple,Technology,2020,People & Key Personnel,0,0.0
+AAPL,Apple,Technology,2020,Stock & Governance,1,0.020833333333333332
+AAPL,Apple,Technology,2020,Operational & Business Continuity,5,0.10416666666666667
+AAPL,Apple,Technology,2020,Climate & ESG,0,0.0
+AAPL,Apple,Technology,2020,Strategy & M&A,1,0.020833333333333332
+AAPL,Apple,Technology,2021,Macroeconomic & Market,3,0.058823529411764705
+AAPL,Apple,Technology,2021,Financial & Credit,2,0.0392156862745098
+AAPL,Apple,Technology,2021,Regulatory & Legal,11,0.21568627450980393
+AAPL,Apple,Technology,2021,Cybersecurity & Data Privacy,6,0.11764705882352941
+AAPL,Apple,Technology,2021,Supply Chain & Manufacturing,5,0.09803921568627451
+AAPL,Apple,Technology,2021,Competition & Demand,6,0.11764705882352941
+AAPL,Apple,Technology,2021,Product & Technology,7,0.13725490196078433
+AAPL,Apple,Technology,2021,International & Geopolitical,3,0.058823529411764705
+AAPL,Apple,Technology,2021,People & Key Personnel,0,0.0
+AAPL,Apple,Technology,2021,Stock & Governance,1,0.0196078431372549
+AAPL,Apple,Technology,2021,Operational & Business Continuity,6,0.11764705882352941
+AAPL,Apple,Technology,2021,Climate & ESG,0,0.0
+AAPL,Apple,Technology,2021,Strategy & M&A,1,0.0196078431372549
+AAPL,Apple,Technology,2022,Macroeconomic & Market,3,0.05555555555555555
+AAPL,Apple,Technology,2022,Financial & Credit,2,0.037037037037037035
+AAPL,Apple,Technology,2022,Regulatory & Legal,11,0.2037037037037037
+AAPL,Apple,Technology,2022,Cybersecurity & Data Privacy,5,0.09259259259259259
+AAPL,Apple,Technology,2022,Supply Chain & Manufacturing,5,0.09259259259259259
+AAPL,Apple,Technology,2022,Competition & Demand,8,0.14814814814814814
+AAPL,Apple,Technology,2022,Product & Technology,8,0.14814814814814814
+AAPL,Apple,Technology,2022,International & Geopolitical,4,0.07407407407407407
+AAPL,Apple,Technology,2022,People & Key Personnel,1,0.018518518518518517
+AAPL,Apple,Technology,2022,Stock & Governance,1,0.018518518518518517
+AAPL,Apple,Technology,2022,Operational & Business Continuity,4,0.07407407407407407
+AAPL,Apple,Technology,2022,Climate & ESG,1,0.018518518518518517
+AAPL,Apple,Technology,2022,Strategy & M&A,1,0.018518518518518517
+AAPL,Apple,Technology,2023,Macroeconomic & Market,3,0.057692307692307696
+AAPL,Apple,Technology,2023,Financial & Credit,1,0.019230769230769232
+AAPL,Apple,Technology,2023,Regulatory & Legal,14,0.2692307692307692
+AAPL,Apple,Technology,2023,Cybersecurity & Data Privacy,5,0.09615384615384616
+AAPL,Apple,Technology,2023,Supply Chain & Manufacturing,5,0.09615384615384616
+AAPL,Apple,Technology,2023,Competition & Demand,6,0.11538461538461539
+AAPL,Apple,Technology,2023,Product & Technology,8,0.15384615384615385
+AAPL,Apple,Technology,2023,International & Geopolitical,3,0.057692307692307696
+AAPL,Apple,Technology,2023,People & Key Personnel,1,0.019230769230769232
+AAPL,Apple,Technology,2023,Stock & Governance,1,0.019230769230769232
+AAPL,Apple,Technology,2023,Operational & Business Continuity,3,0.057692307692307696
+AAPL,Apple,Technology,2023,Climate & ESG,1,0.019230769230769232
+AAPL,Apple,Technology,2023,Strategy & M&A,1,0.019230769230769232
+AAPL,Apple,Technology,2024,Macroeconomic & Market,3,0.05660377358490566
+AAPL,Apple,Technology,2024,Financial & Credit,2,0.03773584905660377
+AAPL,Apple,Technology,2024,Regulatory & Legal,12,0.22641509433962265
+AAPL,Apple,Technology,2024,Cybersecurity & Data Privacy,5,0.09433962264150944
+AAPL,Apple,Technology,2024,Supply Chain & Manufacturing,6,0.11320754716981132
+AAPL,Apple,Technology,2024,Competition & Demand,9,0.16981132075471697
+AAPL,Apple,Technology,2024,Product & Technology,7,0.1320754716981132
+AAPL,Apple,Technology,2024,International & Geopolitical,3,0.05660377358490566
+AAPL,Apple,Technology,2024,People & Key Personnel,1,0.018867924528301886
+AAPL,Apple,Technology,2024,Stock & Governance,1,0.018867924528301886
+AAPL,Apple,Technology,2024,Operational & Business Continuity,2,0.03773584905660377
+AAPL,Apple,Technology,2024,Climate & ESG,1,0.018867924528301886
+AAPL,Apple,Technology,2024,Strategy & M&A,1,0.018867924528301886
+AAPL,Apple,Technology,2025,Macroeconomic & Market,3,0.05660377358490566
+AAPL,Apple,Technology,2025,Financial & Credit,2,0.03773584905660377
+AAPL,Apple,Technology,2025,Regulatory & Legal,13,0.24528301886792453
+AAPL,Apple,Technology,2025,Cybersecurity & Data Privacy,4,0.07547169811320754
+AAPL,Apple,Technology,2025,Supply Chain & Manufacturing,2,0.03773584905660377
+AAPL,Apple,Technology,2025,Competition & Demand,8,0.1509433962264151
+AAPL,Apple,Technology,2025,Product & Technology,8,0.1509433962264151
+AAPL,Apple,Technology,2025,International & Geopolitical,5,0.09433962264150944
+AAPL,Apple,Technology,2025,People & Key Personnel,1,0.018867924528301886
+AAPL,Apple,Technology,2025,Stock & Governance,1,0.018867924528301886
+AAPL,Apple,Technology,2025,Operational & Business Continuity,4,0.07547169811320754
+AAPL,Apple,Technology,2025,Climate & ESG,1,0.018867924528301886
+AAPL,Apple,Technology,2025,Strategy & M&A,1,0.018867924528301886
+AAPL,Apple,Technology,2026,Macroeconomic & Market,2,0.028985507246376812
+AAPL,Apple,Technology,2026,Financial & Credit,2,0.028985507246376812
+AAPL,Apple,Technology,2026,Regulatory & Legal,18,0.2608695652173913
+AAPL,Apple,Technology,2026,Cybersecurity & Data Privacy,5,0.07246376811594203
+AAPL,Apple,Technology,2026,Supply Chain & Manufacturing,4,0.057971014492753624
+AAPL,Apple,Technology,2026,Competition & Demand,10,0.14492753623188406
+AAPL,Apple,Technology,2026,Product & Technology,13,0.18840579710144928
+AAPL,Apple,Technology,2026,International & Geopolitical,5,0.07246376811594203
+AAPL,Apple,Technology,2026,People & Key Personnel,1,0.014492753623188406
+AAPL,Apple,Technology,2026,Stock & Governance,1,0.014492753623188406
+AAPL,Apple,Technology,2026,Operational & Business Continuity,5,0.07246376811594203
+AAPL,Apple,Technology,2026,Climate & ESG,1,0.014492753623188406
+AAPL,Apple,Technology,2026,Strategy & M&A,2,0.028985507246376812
+MSFT,Microsoft,Technology,2019,Macroeconomic & Market,0,0.0
+MSFT,Microsoft,Technology,2019,Financial & Credit,2,0.04
+MSFT,Microsoft,Technology,2019,Regulatory & Legal,8,0.16
+MSFT,Microsoft,Technology,2019,Cybersecurity & Data Privacy,13,0.26
+MSFT,Microsoft,Technology,2019,Supply Chain & Manufacturing,1,0.02
+MSFT,Microsoft,Technology,2019,Competition & Demand,10,0.2
+MSFT,Microsoft,Technology,2019,Product & Technology,8,0.16
+MSFT,Microsoft,Technology,2019,International & Geopolitical,1,0.02
+MSFT,Microsoft,Technology,2019,People & Key Personnel,2,0.04
+MSFT,Microsoft,Technology,2019,Stock & Governance,0,0.0
+MSFT,Microsoft,Technology,2019,Operational & Business Continuity,2,0.04
+MSFT,Microsoft,Technology,2019,Climate & ESG,1,0.02
+MSFT,Microsoft,Technology,2019,Strategy & M&A,2,0.04
+MSFT,Microsoft,Technology,2020,Macroeconomic & Market,1,0.018867924528301886
+MSFT,Microsoft,Technology,2020,Financial & Credit,1,0.018867924528301886
+MSFT,Microsoft,Technology,2020,Regulatory & Legal,8,0.1509433962264151
+MSFT,Microsoft,Technology,2020,Cybersecurity & Data Privacy,12,0.22641509433962265
+MSFT,Microsoft,Technology,2020,Supply Chain & Manufacturing,1,0.018867924528301886
+MSFT,Microsoft,Technology,2020,Competition & Demand,10,0.18867924528301888
+MSFT,Microsoft,Technology,2020,Product & Technology,7,0.1320754716981132
+MSFT,Microsoft,Technology,2020,International & Geopolitical,3,0.05660377358490566
+MSFT,Microsoft,Technology,2020,People & Key Personnel,2,0.03773584905660377
+MSFT,Microsoft,Technology,2020,Stock & Governance,0,0.0
+MSFT,Microsoft,Technology,2020,Operational & Business Continuity,6,0.11320754716981132
+MSFT,Microsoft,Technology,2020,Climate & ESG,0,0.0
+MSFT,Microsoft,Technology,2020,Strategy & M&A,2,0.03773584905660377
+MSFT,Microsoft,Technology,2021,Macroeconomic & Market,0,0.0
+MSFT,Microsoft,Technology,2021,Financial & Credit,1,0.017543859649122806
+MSFT,Microsoft,Technology,2021,Regulatory & Legal,8,0.14035087719298245
+MSFT,Microsoft,Technology,2021,Cybersecurity & Data Privacy,16,0.2807017543859649
+MSFT,Microsoft,Technology,2021,Supply Chain & Manufacturing,1,0.017543859649122806
+MSFT,Microsoft,Technology,2021,Competition & Demand,10,0.17543859649122806
+MSFT,Microsoft,Technology,2021,Product & Technology,8,0.14035087719298245
+MSFT,Microsoft,Technology,2021,International & Geopolitical,2,0.03508771929824561
+MSFT,Microsoft,Technology,2021,People & Key Personnel,1,0.017543859649122806
+MSFT,Microsoft,Technology,2021,Stock & Governance,0,0.0
+MSFT,Microsoft,Technology,2021,Operational & Business Continuity,7,0.12280701754385964
+MSFT,Microsoft,Technology,2021,Climate & ESG,0,0.0
+MSFT,Microsoft,Technology,2021,Strategy & M&A,3,0.05263157894736842
+MSFT,Microsoft,Technology,2022,Macroeconomic & Market,0,0.0
+MSFT,Microsoft,Technology,2022,Financial & Credit,2,0.034482758620689655
+MSFT,Microsoft,Technology,2022,Regulatory & Legal,8,0.13793103448275862
+MSFT,Microsoft,Technology,2022,Cybersecurity & Data Privacy,17,0.29310344827586204
+MSFT,Microsoft,Technology,2022,Supply Chain & Manufacturing,1,0.017241379310344827
+MSFT,Microsoft,Technology,2022,Competition & Demand,10,0.1724137931034483
+MSFT,Microsoft,Technology,2022,Product & Technology,7,0.1206896551724138
+MSFT,Microsoft,Technology,2022,International & Geopolitical,2,0.034482758620689655
+MSFT,Microsoft,Technology,2022,People & Key Personnel,2,0.034482758620689655
+MSFT,Microsoft,Technology,2022,Stock & Governance,0,0.0
+MSFT,Microsoft,Technology,2022,Operational & Business Continuity,5,0.08620689655172414
+MSFT,Microsoft,Technology,2022,Climate & ESG,1,0.017241379310344827
+MSFT,Microsoft,Technology,2022,Strategy & M&A,3,0.05172413793103448
+MSFT,Microsoft,Technology,2023,Macroeconomic & Market,0,0.0
+MSFT,Microsoft,Technology,2023,Financial & Credit,2,0.03571428571428571
+MSFT,Microsoft,Technology,2023,Regulatory & Legal,7,0.125
+MSFT,Microsoft,Technology,2023,Cybersecurity & Data Privacy,16,0.2857142857142857
+MSFT,Microsoft,Technology,2023,Supply Chain & Manufacturing,1,0.017857142857142856
+MSFT,Microsoft,Technology,2023,Competition & Demand,11,0.19642857142857142
+MSFT,Microsoft,Technology,2023,Product & Technology,7,0.125
+MSFT,Microsoft,Technology,2023,International & Geopolitical,3,0.05357142857142857
+MSFT,Microsoft,Technology,2023,People & Key Personnel,2,0.03571428571428571
+MSFT,Microsoft,Technology,2023,Stock & Governance,0,0.0
+MSFT,Microsoft,Technology,2023,Operational & Business Continuity,5,0.08928571428571429
+MSFT,Microsoft,Technology,2023,Climate & ESG,0,0.0
+MSFT,Microsoft,Technology,2023,Strategy & M&A,2,0.03571428571428571
+MSFT,Microsoft,Technology,2024,Macroeconomic & Market,0,0.0
+MSFT,Microsoft,Technology,2024,Financial & Credit,2,0.03278688524590164
+MSFT,Microsoft,Technology,2024,Regulatory & Legal,8,0.13114754098360656
+MSFT,Microsoft,Technology,2024,Cybersecurity & Data Privacy,17,0.2786885245901639
+MSFT,Microsoft,Technology,2024,Supply Chain & Manufacturing,1,0.01639344262295082
+MSFT,Microsoft,Technology,2024,Competition & Demand,10,0.16393442622950818
+MSFT,Microsoft,Technology,2024,Product & Technology,10,0.16393442622950818
+MSFT,Microsoft,Technology,2024,International & Geopolitical,3,0.04918032786885246
+MSFT,Microsoft,Technology,2024,People & Key Personnel,2,0.03278688524590164
+MSFT,Microsoft,Technology,2024,Stock & Governance,0,0.0
+MSFT,Microsoft,Technology,2024,Operational & Business Continuity,5,0.08196721311475409
+MSFT,Microsoft,Technology,2024,Climate & ESG,1,0.01639344262295082
+MSFT,Microsoft,Technology,2024,Strategy & M&A,2,0.03278688524590164
+MSFT,Microsoft,Technology,2025,Macroeconomic & Market,0,0.0
+MSFT,Microsoft,Technology,2025,Financial & Credit,1,0.01818181818181818
+MSFT,Microsoft,Technology,2025,Regulatory & Legal,7,0.12727272727272726
+MSFT,Microsoft,Technology,2025,Cybersecurity & Data Privacy,15,0.2727272727272727
+MSFT,Microsoft,Technology,2025,Supply Chain & Manufacturing,1,0.01818181818181818
+MSFT,Microsoft,Technology,2025,Competition & Demand,9,0.16363636363636364
+MSFT,Microsoft,Technology,2025,Product & Technology,9,0.16363636363636364
+MSFT,Microsoft,Technology,2025,International & Geopolitical,4,0.07272727272727272
+MSFT,Microsoft,Technology,2025,People & Key Personnel,2,0.03636363636363636
+MSFT,Microsoft,Technology,2025,Stock & Governance,0,0.0
+MSFT,Microsoft,Technology,2025,Operational & Business Continuity,4,0.07272727272727272
+MSFT,Microsoft,Technology,2025,Climate & ESG,1,0.01818181818181818
+MSFT,Microsoft,Technology,2025,Strategy & M&A,2,0.03636363636363636
+MSFT,Microsoft,Technology,2026,Macroeconomic & Market,0,0.0
+MSFT,Microsoft,Technology,2026,Financial & Credit,1,0.015384615384615385
+MSFT,Microsoft,Technology,2026,Regulatory & Legal,8,0.12307692307692308
+MSFT,Microsoft,Technology,2026,Cybersecurity & Data Privacy,18,0.27692307692307694
+MSFT,Microsoft,Technology,2026,Supply Chain & Manufacturing,4,0.06153846153846154
+MSFT,Microsoft,Technology,2026,Competition & Demand,15,0.23076923076923078
+MSFT,Microsoft,Technology,2026,Product & Technology,8,0.12307692307692308
+MSFT,Microsoft,Technology,2026,International & Geopolitical,4,0.06153846153846154
+MSFT,Microsoft,Technology,2026,People & Key Personnel,2,0.03076923076923077
+MSFT,Microsoft,Technology,2026,Stock & Governance,0,0.0
+MSFT,Microsoft,Technology,2026,Operational & Business Continuity,3,0.046153846153846156
+MSFT,Microsoft,Technology,2026,Climate & ESG,0,0.0
+MSFT,Microsoft,Technology,2026,Strategy & M&A,2,0.03076923076923077
+NVDA,NVIDIA,Technology,2019,Macroeconomic & Market,0,0.0
+NVDA,NVIDIA,Technology,2019,Financial & Credit,1,0.02564102564102564
+NVDA,NVIDIA,Technology,2019,Regulatory & Legal,4,0.10256410256410256
+NVDA,NVIDIA,Technology,2019,Cybersecurity & Data Privacy,4,0.10256410256410256
+NVDA,NVIDIA,Technology,2019,Supply Chain & Manufacturing,4,0.10256410256410256
+NVDA,NVIDIA,Technology,2019,Competition & Demand,5,0.1282051282051282
+NVDA,NVIDIA,Technology,2019,Product & Technology,9,0.23076923076923078
+NVDA,NVIDIA,Technology,2019,International & Geopolitical,3,0.07692307692307693
+NVDA,NVIDIA,Technology,2019,People & Key Personnel,1,0.02564102564102564
+NVDA,NVIDIA,Technology,2019,Stock & Governance,1,0.02564102564102564
+NVDA,NVIDIA,Technology,2019,Operational & Business Continuity,4,0.10256410256410256
+NVDA,NVIDIA,Technology,2019,Climate & ESG,0,0.0
+NVDA,NVIDIA,Technology,2019,Strategy & M&A,3,0.07692307692307693
+NVDA,NVIDIA,Technology,2020,Macroeconomic & Market,1,0.017543859649122806
+NVDA,NVIDIA,Technology,2020,Financial & Credit,3,0.05263157894736842
+NVDA,NVIDIA,Technology,2020,Regulatory & Legal,7,0.12280701754385964
+NVDA,NVIDIA,Technology,2020,Cybersecurity & Data Privacy,7,0.12280701754385964
+NVDA,NVIDIA,Technology,2020,Supply Chain & Manufacturing,5,0.08771929824561403
+NVDA,NVIDIA,Technology,2020,Competition & Demand,10,0.17543859649122806
+NVDA,NVIDIA,Technology,2020,Product & Technology,6,0.10526315789473684
+NVDA,NVIDIA,Technology,2020,International & Geopolitical,5,0.08771929824561403
+NVDA,NVIDIA,Technology,2020,People & Key Personnel,2,0.03508771929824561
+NVDA,NVIDIA,Technology,2020,Stock & Governance,0,0.0
+NVDA,NVIDIA,Technology,2020,Operational & Business Continuity,6,0.10526315789473684
+NVDA,NVIDIA,Technology,2020,Climate & ESG,0,0.0
+NVDA,NVIDIA,Technology,2020,Strategy & M&A,5,0.08771929824561403
+NVDA,NVIDIA,Technology,2021,Macroeconomic & Market,2,0.03225806451612903
+NVDA,NVIDIA,Technology,2021,Financial & Credit,2,0.03225806451612903
+NVDA,NVIDIA,Technology,2021,Regulatory & Legal,8,0.12903225806451613
+NVDA,NVIDIA,Technology,2021,Cybersecurity & Data Privacy,9,0.14516129032258066
+NVDA,NVIDIA,Technology,2021,Supply Chain & Manufacturing,6,0.0967741935483871
+NVDA,NVIDIA,Technology,2021,Competition & Demand,6,0.0967741935483871
+NVDA,NVIDIA,Technology,2021,Product & Technology,8,0.12903225806451613
+NVDA,NVIDIA,Technology,2021,International & Geopolitical,5,0.08064516129032258
+NVDA,NVIDIA,Technology,2021,People & Key Personnel,1,0.016129032258064516
+NVDA,NVIDIA,Technology,2021,Stock & Governance,2,0.03225806451612903
+NVDA,NVIDIA,Technology,2021,Operational & Business Continuity,4,0.06451612903225806
+NVDA,NVIDIA,Technology,2021,Climate & ESG,4,0.06451612903225806
+NVDA,NVIDIA,Technology,2021,Strategy & M&A,5,0.08064516129032258
+NVDA,NVIDIA,Technology,2022,Macroeconomic & Market,1,0.0136986301369863
+NVDA,NVIDIA,Technology,2022,Financial & Credit,2,0.0273972602739726
+NVDA,NVIDIA,Technology,2022,Regulatory & Legal,6,0.0821917808219178
+NVDA,NVIDIA,Technology,2022,Cybersecurity & Data Privacy,12,0.1643835616438356
+NVDA,NVIDIA,Technology,2022,Supply Chain & Manufacturing,7,0.0958904109589041
+NVDA,NVIDIA,Technology,2022,Competition & Demand,7,0.0958904109589041
+NVDA,NVIDIA,Technology,2022,Product & Technology,8,0.1095890410958904
+NVDA,NVIDIA,Technology,2022,International & Geopolitical,10,0.136986301369863
+NVDA,NVIDIA,Technology,2022,People & Key Personnel,1,0.0136986301369863
+NVDA,NVIDIA,Technology,2022,Stock & Governance,2,0.0273972602739726
+NVDA,NVIDIA,Technology,2022,Operational & Business Continuity,10,0.136986301369863
+NVDA,NVIDIA,Technology,2022,Climate & ESG,4,0.0547945205479452
+NVDA,NVIDIA,Technology,2022,Strategy & M&A,3,0.0410958904109589
+NVDA,NVIDIA,Technology,2023,Macroeconomic & Market,2,0.022727272727272728
+NVDA,NVIDIA,Technology,2023,Financial & Credit,3,0.03409090909090909
+NVDA,NVIDIA,Technology,2023,Regulatory & Legal,8,0.09090909090909091
+NVDA,NVIDIA,Technology,2023,Cybersecurity & Data Privacy,14,0.1590909090909091
+NVDA,NVIDIA,Technology,2023,Supply Chain & Manufacturing,9,0.10227272727272728
+NVDA,NVIDIA,Technology,2023,Competition & Demand,10,0.11363636363636363
+NVDA,NVIDIA,Technology,2023,Product & Technology,8,0.09090909090909091
+NVDA,NVIDIA,Technology,2023,International & Geopolitical,15,0.17045454545454544
+NVDA,NVIDIA,Technology,2023,People & Key Personnel,1,0.011363636363636364
+NVDA,NVIDIA,Technology,2023,Stock & Governance,2,0.022727272727272728
+NVDA,NVIDIA,Technology,2023,Operational & Business Continuity,8,0.09090909090909091
+NVDA,NVIDIA,Technology,2023,Climate & ESG,4,0.045454545454545456
+NVDA,NVIDIA,Technology,2023,Strategy & M&A,4,0.045454545454545456
+NVDA,NVIDIA,Technology,2024,Macroeconomic & Market,0,0.0
+NVDA,NVIDIA,Technology,2024,Financial & Credit,3,0.03409090909090909
+NVDA,NVIDIA,Technology,2024,Regulatory & Legal,10,0.11363636363636363
+NVDA,NVIDIA,Technology,2024,Cybersecurity & Data Privacy,15,0.17045454545454544
+NVDA,NVIDIA,Technology,2024,Supply Chain & Manufacturing,8,0.09090909090909091
+NVDA,NVIDIA,Technology,2024,Competition & Demand,9,0.10227272727272728
+NVDA,NVIDIA,Technology,2024,Product & Technology,9,0.10227272727272728
+NVDA,NVIDIA,Technology,2024,International & Geopolitical,17,0.19318181818181818
+NVDA,NVIDIA,Technology,2024,People & Key Personnel,1,0.011363636363636364
+NVDA,NVIDIA,Technology,2024,Stock & Governance,1,0.011363636363636364
+NVDA,NVIDIA,Technology,2024,Operational & Business Continuity,7,0.07954545454545454
+NVDA,NVIDIA,Technology,2024,Climate & ESG,4,0.045454545454545456
+NVDA,NVIDIA,Technology,2024,Strategy & M&A,4,0.045454545454545456
+NVDA,NVIDIA,Technology,2025,Macroeconomic & Market,2,0.02127659574468085
+NVDA,NVIDIA,Technology,2025,Financial & Credit,4,0.0425531914893617
+NVDA,NVIDIA,Technology,2025,Regulatory & Legal,10,0.10638297872340426
+NVDA,NVIDIA,Technology,2025,Cybersecurity & Data Privacy,16,0.1702127659574468
+NVDA,NVIDIA,Technology,2025,Supply Chain & Manufacturing,9,0.09574468085106383
+NVDA,NVIDIA,Technology,2025,Competition & Demand,8,0.0851063829787234
+NVDA,NVIDIA,Technology,2025,Product & Technology,9,0.09574468085106383
+NVDA,NVIDIA,Technology,2025,International & Geopolitical,18,0.19148936170212766
+NVDA,NVIDIA,Technology,2025,People & Key Personnel,1,0.010638297872340425
+NVDA,NVIDIA,Technology,2025,Stock & Governance,1,0.010638297872340425
+NVDA,NVIDIA,Technology,2025,Operational & Business Continuity,7,0.07446808510638298
+NVDA,NVIDIA,Technology,2025,Climate & ESG,5,0.05319148936170213
+NVDA,NVIDIA,Technology,2025,Strategy & M&A,4,0.0425531914893617
+GOOGL,Alphabet,Technology,2019,Macroeconomic & Market,0,0.0
+GOOGL,Alphabet,Technology,2019,Financial & Credit,2,0.037037037037037035
+GOOGL,Alphabet,Technology,2019,Regulatory & Legal,10,0.18518518518518517
+GOOGL,Alphabet,Technology,2019,Cybersecurity & Data Privacy,8,0.14814814814814814
+GOOGL,Alphabet,Technology,2019,Supply Chain & Manufacturing,2,0.037037037037037035
+GOOGL,Alphabet,Technology,2019,Competition & Demand,10,0.18518518518518517
+GOOGL,Alphabet,Technology,2019,Product & Technology,5,0.09259259259259259
+GOOGL,Alphabet,Technology,2019,International & Geopolitical,2,0.037037037037037035
+GOOGL,Alphabet,Technology,2019,People & Key Personnel,1,0.018518518518518517
+GOOGL,Alphabet,Technology,2019,Stock & Governance,7,0.12962962962962962
+GOOGL,Alphabet,Technology,2019,Operational & Business Continuity,2,0.037037037037037035
+GOOGL,Alphabet,Technology,2019,Climate & ESG,0,0.0
+GOOGL,Alphabet,Technology,2019,Strategy & M&A,5,0.09259259259259259
+GOOGL,Alphabet,Technology,2020,Macroeconomic & Market,1,0.01639344262295082
+GOOGL,Alphabet,Technology,2020,Financial & Credit,1,0.01639344262295082
+GOOGL,Alphabet,Technology,2020,Regulatory & Legal,13,0.21311475409836064
+GOOGL,Alphabet,Technology,2020,Cybersecurity & Data Privacy,8,0.13114754098360656
+GOOGL,Alphabet,Technology,2020,Supply Chain & Manufacturing,2,0.03278688524590164
+GOOGL,Alphabet,Technology,2020,Competition & Demand,12,0.19672131147540983
+GOOGL,Alphabet,Technology,2020,Product & Technology,5,0.08196721311475409
+GOOGL,Alphabet,Technology,2020,International & Geopolitical,2,0.03278688524590164
+GOOGL,Alphabet,Technology,2020,People & Key Personnel,2,0.03278688524590164
+GOOGL,Alphabet,Technology,2020,Stock & Governance,6,0.09836065573770492
+GOOGL,Alphabet,Technology,2020,Operational & Business Continuity,5,0.08196721311475409
+GOOGL,Alphabet,Technology,2020,Climate & ESG,0,0.0
+GOOGL,Alphabet,Technology,2020,Strategy & M&A,4,0.06557377049180328
+GOOGL,Alphabet,Technology,2021,Macroeconomic & Market,0,0.0
+GOOGL,Alphabet,Technology,2021,Financial & Credit,1,0.015873015873015872
+GOOGL,Alphabet,Technology,2021,Regulatory & Legal,13,0.20634920634920634
+GOOGL,Alphabet,Technology,2021,Cybersecurity & Data Privacy,13,0.20634920634920634
+GOOGL,Alphabet,Technology,2021,Supply Chain & Manufacturing,2,0.031746031746031744
+GOOGL,Alphabet,Technology,2021,Competition & Demand,12,0.19047619047619047
+GOOGL,Alphabet,Technology,2021,Product & Technology,5,0.07936507936507936
+GOOGL,Alphabet,Technology,2021,International & Geopolitical,2,0.031746031746031744
+GOOGL,Alphabet,Technology,2021,People & Key Personnel,2,0.031746031746031744
+GOOGL,Alphabet,Technology,2021,Stock & Governance,5,0.07936507936507936
+GOOGL,Alphabet,Technology,2021,Operational & Business Continuity,4,0.06349206349206349
+GOOGL,Alphabet,Technology,2021,Climate & ESG,0,0.0
+GOOGL,Alphabet,Technology,2021,Strategy & M&A,4,0.06349206349206349
+GOOGL,Alphabet,Technology,2022,Macroeconomic & Market,0,0.0
+GOOGL,Alphabet,Technology,2022,Financial & Credit,2,0.03389830508474576
+GOOGL,Alphabet,Technology,2022,Regulatory & Legal,8,0.13559322033898305
+GOOGL,Alphabet,Technology,2022,Cybersecurity & Data Privacy,12,0.2033898305084746
+GOOGL,Alphabet,Technology,2022,Supply Chain & Manufacturing,2,0.03389830508474576
+GOOGL,Alphabet,Technology,2022,Competition & Demand,11,0.1864406779661017
+GOOGL,Alphabet,Technology,2022,Product & Technology,7,0.11864406779661017
+GOOGL,Alphabet,Technology,2022,International & Geopolitical,2,0.03389830508474576
+GOOGL,Alphabet,Technology,2022,People & Key Personnel,2,0.03389830508474576
+GOOGL,Alphabet,Technology,2022,Stock & Governance,5,0.0847457627118644
+GOOGL,Alphabet,Technology,2022,Operational & Business Continuity,2,0.03389830508474576
+GOOGL,Alphabet,Technology,2022,Climate & ESG,1,0.01694915254237288
+GOOGL,Alphabet,Technology,2022,Strategy & M&A,5,0.0847457627118644
+GOOGL,Alphabet,Technology,2023,Macroeconomic & Market,0,0.0
+GOOGL,Alphabet,Technology,2023,Financial & Credit,1,0.016666666666666666
+GOOGL,Alphabet,Technology,2023,Regulatory & Legal,10,0.16666666666666666
+GOOGL,Alphabet,Technology,2023,Cybersecurity & Data Privacy,11,0.18333333333333332
+GOOGL,Alphabet,Technology,2023,Supply Chain & Manufacturing,3,0.05
+GOOGL,Alphabet,Technology,2023,Competition & Demand,10,0.16666666666666666
+GOOGL,Alphabet,Technology,2023,Product & Technology,8,0.13333333333333333
+GOOGL,Alphabet,Technology,2023,International & Geopolitical,2,0.03333333333333333
+GOOGL,Alphabet,Technology,2023,People & Key Personnel,2,0.03333333333333333
+GOOGL,Alphabet,Technology,2023,Stock & Governance,4,0.06666666666666667
+GOOGL,Alphabet,Technology,2023,Operational & Business Continuity,3,0.05
+GOOGL,Alphabet,Technology,2023,Climate & ESG,2,0.03333333333333333
+GOOGL,Alphabet,Technology,2023,Strategy & M&A,4,0.06666666666666667
+GOOGL,Alphabet,Technology,2024,Macroeconomic & Market,0,0.0
+GOOGL,Alphabet,Technology,2024,Financial & Credit,1,0.014925373134328358
+GOOGL,Alphabet,Technology,2024,Regulatory & Legal,15,0.22388059701492538
+GOOGL,Alphabet,Technology,2024,Cybersecurity & Data Privacy,13,0.19402985074626866
+GOOGL,Alphabet,Technology,2024,Supply Chain & Manufacturing,3,0.04477611940298507
+GOOGL,Alphabet,Technology,2024,Competition & Demand,11,0.16417910447761194
+GOOGL,Alphabet,Technology,2024,Product & Technology,8,0.11940298507462686
+GOOGL,Alphabet,Technology,2024,International & Geopolitical,2,0.029850746268656716
+GOOGL,Alphabet,Technology,2024,People & Key Personnel,1,0.014925373134328358
+GOOGL,Alphabet,Technology,2024,Stock & Governance,5,0.07462686567164178
+GOOGL,Alphabet,Technology,2024,Operational & Business Continuity,3,0.04477611940298507
+GOOGL,Alphabet,Technology,2024,Climate & ESG,0,0.0
+GOOGL,Alphabet,Technology,2024,Strategy & M&A,5,0.07462686567164178
+GOOGL,Alphabet,Technology,2025,Macroeconomic & Market,0,0.0
+GOOGL,Alphabet,Technology,2025,Financial & Credit,2,0.02857142857142857
+GOOGL,Alphabet,Technology,2025,Regulatory & Legal,17,0.24285714285714285
+GOOGL,Alphabet,Technology,2025,Cybersecurity & Data Privacy,12,0.17142857142857143
+GOOGL,Alphabet,Technology,2025,Supply Chain & Manufacturing,3,0.04285714285714286
+GOOGL,Alphabet,Technology,2025,Competition & Demand,11,0.15714285714285714
+GOOGL,Alphabet,Technology,2025,Product & Technology,9,0.12857142857142856
+GOOGL,Alphabet,Technology,2025,International & Geopolitical,2,0.02857142857142857
+GOOGL,Alphabet,Technology,2025,People & Key Personnel,2,0.02857142857142857
+GOOGL,Alphabet,Technology,2025,Stock & Governance,5,0.07142857142857142
+GOOGL,Alphabet,Technology,2025,Operational & Business Continuity,1,0.014285714285714285
+GOOGL,Alphabet,Technology,2025,Climate & ESG,1,0.014285714285714285
+GOOGL,Alphabet,Technology,2025,Strategy & M&A,5,0.07142857142857142
+META,Meta,Technology,2019,Macroeconomic & Market,1,0.008403361344537815
+META,Meta,Technology,2019,Financial & Credit,1,0.008403361344537815
+META,Meta,Technology,2019,Regulatory & Legal,25,0.21008403361344538
+META,Meta,Technology,2019,Cybersecurity & Data Privacy,16,0.13445378151260504
+META,Meta,Technology,2019,Supply Chain & Manufacturing,2,0.01680672268907563
+META,Meta,Technology,2019,Competition & Demand,34,0.2857142857142857
+META,Meta,Technology,2019,Product & Technology,5,0.04201680672268908
+META,Meta,Technology,2019,International & Geopolitical,6,0.05042016806722689
+META,Meta,Technology,2019,People & Key Personnel,2,0.01680672268907563
+META,Meta,Technology,2019,Stock & Governance,9,0.07563025210084033
+META,Meta,Technology,2019,Operational & Business Continuity,14,0.11764705882352941
+META,Meta,Technology,2019,Climate & ESG,0,0.0
+META,Meta,Technology,2019,Strategy & M&A,4,0.03361344537815126
+META,Meta,Technology,2020,Macroeconomic & Market,1,0.007142857142857143
+META,Meta,Technology,2020,Financial & Credit,1,0.007142857142857143
+META,Meta,Technology,2020,Regulatory & Legal,24,0.17142857142857143
+META,Meta,Technology,2020,Cybersecurity & Data Privacy,22,0.15714285714285714
+META,Meta,Technology,2020,Supply Chain & Manufacturing,2,0.014285714285714285
+META,Meta,Technology,2020,Competition & Demand,41,0.29285714285714287
+META,Meta,Technology,2020,Product & Technology,8,0.05714285714285714
+META,Meta,Technology,2020,International & Geopolitical,6,0.04285714285714286
+META,Meta,Technology,2020,People & Key Personnel,2,0.014285714285714285
+META,Meta,Technology,2020,Stock & Governance,9,0.06428571428571428
+META,Meta,Technology,2020,Operational & Business Continuity,20,0.14285714285714285
+META,Meta,Technology,2020,Climate & ESG,0,0.0
+META,Meta,Technology,2020,Strategy & M&A,4,0.02857142857142857
+META,Meta,Technology,2021,Macroeconomic & Market,0,0.0
+META,Meta,Technology,2021,Financial & Credit,1,0.006896551724137931
+META,Meta,Technology,2021,Regulatory & Legal,31,0.21379310344827587
+META,Meta,Technology,2021,Cybersecurity & Data Privacy,19,0.1310344827586207
+META,Meta,Technology,2021,Supply Chain & Manufacturing,2,0.013793103448275862
+META,Meta,Technology,2021,Competition & Demand,43,0.296551724137931
+META,Meta,Technology,2021,Product & Technology,8,0.05517241379310345
+META,Meta,Technology,2021,International & Geopolitical,6,0.041379310344827586
+META,Meta,Technology,2021,People & Key Personnel,2,0.013793103448275862
+META,Meta,Technology,2021,Stock & Governance,9,0.06206896551724138
+META,Meta,Technology,2021,Operational & Business Continuity,18,0.12413793103448276
+META,Meta,Technology,2021,Climate & ESG,0,0.0
+META,Meta,Technology,2021,Strategy & M&A,6,0.041379310344827586
+META,Meta,Technology,2022,Macroeconomic & Market,0,0.0
+META,Meta,Technology,2022,Financial & Credit,1,0.006944444444444444
+META,Meta,Technology,2022,Regulatory & Legal,33,0.22916666666666666
+META,Meta,Technology,2022,Cybersecurity & Data Privacy,20,0.1388888888888889
+META,Meta,Technology,2022,Supply Chain & Manufacturing,3,0.020833333333333332
+META,Meta,Technology,2022,Competition & Demand,39,0.2708333333333333
+META,Meta,Technology,2022,Product & Technology,9,0.0625
+META,Meta,Technology,2022,International & Geopolitical,6,0.041666666666666664
+META,Meta,Technology,2022,People & Key Personnel,2,0.013888888888888888
+META,Meta,Technology,2022,Stock & Governance,8,0.05555555555555555
+META,Meta,Technology,2022,Operational & Business Continuity,17,0.11805555555555555
+META,Meta,Technology,2022,Climate & ESG,0,0.0
+META,Meta,Technology,2022,Strategy & M&A,6,0.041666666666666664
+META,Meta,Technology,2023,Macroeconomic & Market,0,0.0
+META,Meta,Technology,2023,Financial & Credit,1,0.006369426751592357
+META,Meta,Technology,2023,Regulatory & Legal,34,0.21656050955414013
+META,Meta,Technology,2023,Cybersecurity & Data Privacy,23,0.1464968152866242
+META,Meta,Technology,2023,Supply Chain & Manufacturing,5,0.03184713375796178
+META,Meta,Technology,2023,Competition & Demand,40,0.25477707006369427
+META,Meta,Technology,2023,Product & Technology,13,0.08280254777070063
+META,Meta,Technology,2023,International & Geopolitical,6,0.03821656050955414
+META,Meta,Technology,2023,People & Key Personnel,1,0.006369426751592357
+META,Meta,Technology,2023,Stock & Governance,9,0.05732484076433121
+META,Meta,Technology,2023,Operational & Business Continuity,16,0.10191082802547771
+META,Meta,Technology,2023,Climate & ESG,0,0.0
+META,Meta,Technology,2023,Strategy & M&A,9,0.05732484076433121
+META,Meta,Technology,2024,Macroeconomic & Market,0,0.0
+META,Meta,Technology,2024,Financial & Credit,1,0.006369426751592357
+META,Meta,Technology,2024,Regulatory & Legal,34,0.21656050955414013
+META,Meta,Technology,2024,Cybersecurity & Data Privacy,29,0.18471337579617833
+META,Meta,Technology,2024,Supply Chain & Manufacturing,4,0.025477707006369428
+META,Meta,Technology,2024,Competition & Demand,37,0.2356687898089172
+META,Meta,Technology,2024,Product & Technology,12,0.07643312101910828
+META,Meta,Technology,2024,International & Geopolitical,7,0.044585987261146494
+META,Meta,Technology,2024,People & Key Personnel,1,0.006369426751592357
+META,Meta,Technology,2024,Stock & Governance,9,0.05732484076433121
+META,Meta,Technology,2024,Operational & Business Continuity,15,0.09554140127388536
+META,Meta,Technology,2024,Climate & ESG,0,0.0
+META,Meta,Technology,2024,Strategy & M&A,8,0.050955414012738856
+META,Meta,Technology,2025,Macroeconomic & Market,0,0.0
+META,Meta,Technology,2025,Financial & Credit,2,0.012121212121212121
+META,Meta,Technology,2025,Regulatory & Legal,38,0.23030303030303031
+META,Meta,Technology,2025,Cybersecurity & Data Privacy,29,0.17575757575757575
+META,Meta,Technology,2025,Supply Chain & Manufacturing,4,0.024242424242424242
+META,Meta,Technology,2025,Competition & Demand,39,0.23636363636363636
+META,Meta,Technology,2025,Product & Technology,14,0.08484848484848485
+META,Meta,Technology,2025,International & Geopolitical,7,0.04242424242424243
+META,Meta,Technology,2025,People & Key Personnel,2,0.012121212121212121
+META,Meta,Technology,2025,Stock & Governance,9,0.05454545454545454
+META,Meta,Technology,2025,Operational & Business Continuity,13,0.07878787878787878
+META,Meta,Technology,2025,Climate & ESG,0,0.0
+META,Meta,Technology,2025,Strategy & M&A,8,0.048484848484848485
+AMZN,Amazon,Consumer,2019,Macroeconomic & Market,0,0.0
+AMZN,Amazon,Consumer,2019,Financial & Credit,0,0.0
+AMZN,Amazon,Consumer,2019,Regulatory & Legal,10,0.2564102564102564
+AMZN,Amazon,Consumer,2019,Cybersecurity & Data Privacy,1,0.02564102564102564
+AMZN,Amazon,Consumer,2019,Supply Chain & Manufacturing,2,0.05128205128205128
+AMZN,Amazon,Consumer,2019,Competition & Demand,6,0.15384615384615385
+AMZN,Amazon,Consumer,2019,Product & Technology,4,0.10256410256410256
+AMZN,Amazon,Consumer,2019,International & Geopolitical,5,0.1282051282051282
+AMZN,Amazon,Consumer,2019,People & Key Personnel,0,0.0
+AMZN,Amazon,Consumer,2019,Stock & Governance,1,0.02564102564102564
+AMZN,Amazon,Consumer,2019,Operational & Business Continuity,5,0.1282051282051282
+AMZN,Amazon,Consumer,2019,Climate & ESG,0,0.0
+AMZN,Amazon,Consumer,2019,Strategy & M&A,5,0.1282051282051282
+AMZN,Amazon,Consumer,2020,Macroeconomic & Market,0,0.0
+AMZN,Amazon,Consumer,2020,Financial & Credit,2,0.05128205128205128
+AMZN,Amazon,Consumer,2020,Regulatory & Legal,9,0.23076923076923078
+AMZN,Amazon,Consumer,2020,Cybersecurity & Data Privacy,3,0.07692307692307693
+AMZN,Amazon,Consumer,2020,Supply Chain & Manufacturing,1,0.02564102564102564
+AMZN,Amazon,Consumer,2020,Competition & Demand,5,0.1282051282051282
+AMZN,Amazon,Consumer,2020,Product & Technology,3,0.07692307692307693
+AMZN,Amazon,Consumer,2020,International & Geopolitical,5,0.1282051282051282
+AMZN,Amazon,Consumer,2020,People & Key Personnel,1,0.02564102564102564
+AMZN,Amazon,Consumer,2020,Stock & Governance,1,0.02564102564102564
+AMZN,Amazon,Consumer,2020,Operational & Business Continuity,5,0.1282051282051282
+AMZN,Amazon,Consumer,2020,Climate & ESG,0,0.0
+AMZN,Amazon,Consumer,2020,Strategy & M&A,4,0.10256410256410256
+AMZN,Amazon,Consumer,2021,Macroeconomic & Market,0,0.0
+AMZN,Amazon,Consumer,2021,Financial & Credit,1,0.024390243902439025
+AMZN,Amazon,Consumer,2021,Regulatory & Legal,9,0.21951219512195122
+AMZN,Amazon,Consumer,2021,Cybersecurity & Data Privacy,2,0.04878048780487805
+AMZN,Amazon,Consumer,2021,Supply Chain & Manufacturing,2,0.04878048780487805
+AMZN,Amazon,Consumer,2021,Competition & Demand,7,0.17073170731707318
+AMZN,Amazon,Consumer,2021,Product & Technology,2,0.04878048780487805
+AMZN,Amazon,Consumer,2021,International & Geopolitical,5,0.12195121951219512
+AMZN,Amazon,Consumer,2021,People & Key Personnel,1,0.024390243902439025
+AMZN,Amazon,Consumer,2021,Stock & Governance,1,0.024390243902439025
+AMZN,Amazon,Consumer,2021,Operational & Business Continuity,6,0.14634146341463414
+AMZN,Amazon,Consumer,2021,Climate & ESG,0,0.0
+AMZN,Amazon,Consumer,2021,Strategy & M&A,5,0.12195121951219512
+AMZN,Amazon,Consumer,2022,Macroeconomic & Market,0,0.0
+AMZN,Amazon,Consumer,2022,Financial & Credit,1,0.022222222222222223
+AMZN,Amazon,Consumer,2022,Regulatory & Legal,11,0.24444444444444444
+AMZN,Amazon,Consumer,2022,Cybersecurity & Data Privacy,2,0.044444444444444446
+AMZN,Amazon,Consumer,2022,Supply Chain & Manufacturing,1,0.022222222222222223
+AMZN,Amazon,Consumer,2022,Competition & Demand,5,0.1111111111111111
+AMZN,Amazon,Consumer,2022,Product & Technology,2,0.044444444444444446
+AMZN,Amazon,Consumer,2022,International & Geopolitical,6,0.13333333333333333
+AMZN,Amazon,Consumer,2022,People & Key Personnel,2,0.044444444444444446
+AMZN,Amazon,Consumer,2022,Stock & Governance,1,0.022222222222222223
+AMZN,Amazon,Consumer,2022,Operational & Business Continuity,8,0.17777777777777778
+AMZN,Amazon,Consumer,2022,Climate & ESG,0,0.0
+AMZN,Amazon,Consumer,2022,Strategy & M&A,6,0.13333333333333333
+AMZN,Amazon,Consumer,2023,Macroeconomic & Market,0,0.0
+AMZN,Amazon,Consumer,2023,Financial & Credit,1,0.02127659574468085
+AMZN,Amazon,Consumer,2023,Regulatory & Legal,13,0.2765957446808511
+AMZN,Amazon,Consumer,2023,Cybersecurity & Data Privacy,2,0.0425531914893617
+AMZN,Amazon,Consumer,2023,Supply Chain & Manufacturing,2,0.0425531914893617
+AMZN,Amazon,Consumer,2023,Competition & Demand,5,0.10638297872340426
+AMZN,Amazon,Consumer,2023,Product & Technology,2,0.0425531914893617
+AMZN,Amazon,Consumer,2023,International & Geopolitical,5,0.10638297872340426
+AMZN,Amazon,Consumer,2023,People & Key Personnel,2,0.0425531914893617
+AMZN,Amazon,Consumer,2023,Stock & Governance,1,0.02127659574468085
+AMZN,Amazon,Consumer,2023,Operational & Business Continuity,7,0.14893617021276595
+AMZN,Amazon,Consumer,2023,Climate & ESG,1,0.02127659574468085
+AMZN,Amazon,Consumer,2023,Strategy & M&A,6,0.1276595744680851
+AMZN,Amazon,Consumer,2024,Macroeconomic & Market,0,0.0
+AMZN,Amazon,Consumer,2024,Financial & Credit,1,0.02127659574468085
+AMZN,Amazon,Consumer,2024,Regulatory & Legal,13,0.2765957446808511
+AMZN,Amazon,Consumer,2024,Cybersecurity & Data Privacy,2,0.0425531914893617
+AMZN,Amazon,Consumer,2024,Supply Chain & Manufacturing,1,0.02127659574468085
+AMZN,Amazon,Consumer,2024,Competition & Demand,6,0.1276595744680851
+AMZN,Amazon,Consumer,2024,Product & Technology,3,0.06382978723404255
+AMZN,Amazon,Consumer,2024,International & Geopolitical,6,0.1276595744680851
+AMZN,Amazon,Consumer,2024,People & Key Personnel,2,0.0425531914893617
+AMZN,Amazon,Consumer,2024,Stock & Governance,1,0.02127659574468085
+AMZN,Amazon,Consumer,2024,Operational & Business Continuity,5,0.10638297872340426
+AMZN,Amazon,Consumer,2024,Climate & ESG,1,0.02127659574468085
+AMZN,Amazon,Consumer,2024,Strategy & M&A,6,0.1276595744680851
+AMZN,Amazon,Consumer,2025,Macroeconomic & Market,0,0.0
+AMZN,Amazon,Consumer,2025,Financial & Credit,1,0.020833333333333332
+AMZN,Amazon,Consumer,2025,Regulatory & Legal,14,0.2916666666666667
+AMZN,Amazon,Consumer,2025,Cybersecurity & Data Privacy,1,0.020833333333333332
+AMZN,Amazon,Consumer,2025,Supply Chain & Manufacturing,1,0.020833333333333332
+AMZN,Amazon,Consumer,2025,Competition & Demand,6,0.125
+AMZN,Amazon,Consumer,2025,Product & Technology,2,0.041666666666666664
+AMZN,Amazon,Consumer,2025,International & Geopolitical,6,0.125
+AMZN,Amazon,Consumer,2025,People & Key Personnel,2,0.041666666666666664
+AMZN,Amazon,Consumer,2025,Stock & Governance,1,0.020833333333333332
+AMZN,Amazon,Consumer,2025,Operational & Business Continuity,7,0.14583333333333334
+AMZN,Amazon,Consumer,2025,Climate & ESG,1,0.020833333333333332
+AMZN,Amazon,Consumer,2025,Strategy & M&A,6,0.125
+WMT,Walmart,Consumer,2019,Macroeconomic & Market,1,0.023809523809523808
+WMT,Walmart,Consumer,2019,Financial & Credit,0,0.0
+WMT,Walmart,Consumer,2019,Regulatory & Legal,13,0.30952380952380953
+WMT,Walmart,Consumer,2019,Cybersecurity & Data Privacy,6,0.14285714285714285
+WMT,Walmart,Consumer,2019,Supply Chain & Manufacturing,0,0.0
+WMT,Walmart,Consumer,2019,Competition & Demand,4,0.09523809523809523
+WMT,Walmart,Consumer,2019,Product & Technology,0,0.0
+WMT,Walmart,Consumer,2019,International & Geopolitical,9,0.21428571428571427
+WMT,Walmart,Consumer,2019,People & Key Personnel,1,0.023809523809523808
+WMT,Walmart,Consumer,2019,Stock & Governance,1,0.023809523809523808
+WMT,Walmart,Consumer,2019,Operational & Business Continuity,5,0.11904761904761904
+WMT,Walmart,Consumer,2019,Climate & ESG,0,0.0
+WMT,Walmart,Consumer,2019,Strategy & M&A,2,0.047619047619047616
+WMT,Walmart,Consumer,2020,Macroeconomic & Market,2,0.04081632653061224
+WMT,Walmart,Consumer,2020,Financial & Credit,0,0.0
+WMT,Walmart,Consumer,2020,Regulatory & Legal,16,0.32653061224489793
+WMT,Walmart,Consumer,2020,Cybersecurity & Data Privacy,9,0.1836734693877551
+WMT,Walmart,Consumer,2020,Supply Chain & Manufacturing,1,0.02040816326530612
+WMT,Walmart,Consumer,2020,Competition & Demand,3,0.061224489795918366
+WMT,Walmart,Consumer,2020,Product & Technology,1,0.02040816326530612
+WMT,Walmart,Consumer,2020,International & Geopolitical,6,0.12244897959183673
+WMT,Walmart,Consumer,2020,People & Key Personnel,1,0.02040816326530612
+WMT,Walmart,Consumer,2020,Stock & Governance,0,0.0
+WMT,Walmart,Consumer,2020,Operational & Business Continuity,7,0.14285714285714285
+WMT,Walmart,Consumer,2020,Climate & ESG,0,0.0
+WMT,Walmart,Consumer,2020,Strategy & M&A,3,0.061224489795918366
+WMT,Walmart,Consumer,2021,Macroeconomic & Market,2,0.03571428571428571
+WMT,Walmart,Consumer,2021,Financial & Credit,0,0.0
+WMT,Walmart,Consumer,2021,Regulatory & Legal,18,0.32142857142857145
+WMT,Walmart,Consumer,2021,Cybersecurity & Data Privacy,10,0.17857142857142858
+WMT,Walmart,Consumer,2021,Supply Chain & Manufacturing,0,0.0
+WMT,Walmart,Consumer,2021,Competition & Demand,5,0.08928571428571429
+WMT,Walmart,Consumer,2021,Product & Technology,2,0.03571428571428571
+WMT,Walmart,Consumer,2021,International & Geopolitical,6,0.10714285714285714
+WMT,Walmart,Consumer,2021,People & Key Personnel,1,0.017857142857142856
+WMT,Walmart,Consumer,2021,Stock & Governance,1,0.017857142857142856
+WMT,Walmart,Consumer,2021,Operational & Business Continuity,7,0.125
+WMT,Walmart,Consumer,2021,Climate & ESG,2,0.03571428571428571
+WMT,Walmart,Consumer,2021,Strategy & M&A,2,0.03571428571428571
+WMT,Walmart,Consumer,2022,Macroeconomic & Market,1,0.016666666666666666
+WMT,Walmart,Consumer,2022,Financial & Credit,0,0.0
+WMT,Walmart,Consumer,2022,Regulatory & Legal,17,0.2833333333333333
+WMT,Walmart,Consumer,2022,Cybersecurity & Data Privacy,11,0.18333333333333332
+WMT,Walmart,Consumer,2022,Supply Chain & Manufacturing,2,0.03333333333333333
+WMT,Walmart,Consumer,2022,Competition & Demand,3,0.05
+WMT,Walmart,Consumer,2022,Product & Technology,1,0.016666666666666666
+WMT,Walmart,Consumer,2022,International & Geopolitical,7,0.11666666666666667
+WMT,Walmart,Consumer,2022,People & Key Personnel,3,0.05
+WMT,Walmart,Consumer,2022,Stock & Governance,1,0.016666666666666666
+WMT,Walmart,Consumer,2022,Operational & Business Continuity,8,0.13333333333333333
+WMT,Walmart,Consumer,2022,Climate & ESG,3,0.05
+WMT,Walmart,Consumer,2022,Strategy & M&A,3,0.05
+WMT,Walmart,Consumer,2023,Macroeconomic & Market,1,0.014925373134328358
+WMT,Walmart,Consumer,2023,Financial & Credit,0,0.0
+WMT,Walmart,Consumer,2023,Regulatory & Legal,19,0.2835820895522388
+WMT,Walmart,Consumer,2023,Cybersecurity & Data Privacy,15,0.22388059701492538
+WMT,Walmart,Consumer,2023,Supply Chain & Manufacturing,2,0.029850746268656716
+WMT,Walmart,Consumer,2023,Competition & Demand,6,0.08955223880597014
+WMT,Walmart,Consumer,2023,Product & Technology,2,0.029850746268656716
+WMT,Walmart,Consumer,2023,International & Geopolitical,6,0.08955223880597014
+WMT,Walmart,Consumer,2023,People & Key Personnel,3,0.04477611940298507
+WMT,Walmart,Consumer,2023,Stock & Governance,1,0.014925373134328358
+WMT,Walmart,Consumer,2023,Operational & Business Continuity,6,0.08955223880597014
+WMT,Walmart,Consumer,2023,Climate & ESG,3,0.04477611940298507
+WMT,Walmart,Consumer,2023,Strategy & M&A,3,0.04477611940298507
+WMT,Walmart,Consumer,2024,Macroeconomic & Market,2,0.02702702702702703
+WMT,Walmart,Consumer,2024,Financial & Credit,0,0.0
+WMT,Walmart,Consumer,2024,Regulatory & Legal,23,0.3108108108108108
+WMT,Walmart,Consumer,2024,Cybersecurity & Data Privacy,15,0.20270270270270271
+WMT,Walmart,Consumer,2024,Supply Chain & Manufacturing,2,0.02702702702702703
+WMT,Walmart,Consumer,2024,Competition & Demand,7,0.0945945945945946
+WMT,Walmart,Consumer,2024,Product & Technology,3,0.04054054054054054
+WMT,Walmart,Consumer,2024,International & Geopolitical,8,0.10810810810810811
+WMT,Walmart,Consumer,2024,People & Key Personnel,2,0.02702702702702703
+WMT,Walmart,Consumer,2024,Stock & Governance,0,0.0
+WMT,Walmart,Consumer,2024,Operational & Business Continuity,8,0.10810810810810811
+WMT,Walmart,Consumer,2024,Climate & ESG,3,0.04054054054054054
+WMT,Walmart,Consumer,2024,Strategy & M&A,1,0.013513513513513514
+WMT,Walmart,Consumer,2025,Macroeconomic & Market,3,0.04225352112676056
+WMT,Walmart,Consumer,2025,Financial & Credit,2,0.028169014084507043
+WMT,Walmart,Consumer,2025,Regulatory & Legal,18,0.2535211267605634
+WMT,Walmart,Consumer,2025,Cybersecurity & Data Privacy,16,0.22535211267605634
+WMT,Walmart,Consumer,2025,Supply Chain & Manufacturing,3,0.04225352112676056
+WMT,Walmart,Consumer,2025,Competition & Demand,11,0.15492957746478872
+WMT,Walmart,Consumer,2025,Product & Technology,4,0.056338028169014086
+WMT,Walmart,Consumer,2025,International & Geopolitical,7,0.09859154929577464
+WMT,Walmart,Consumer,2025,People & Key Personnel,1,0.014084507042253521
+WMT,Walmart,Consumer,2025,Stock & Governance,0,0.0
+WMT,Walmart,Consumer,2025,Operational & Business Continuity,4,0.056338028169014086
+WMT,Walmart,Consumer,2025,Climate & ESG,2,0.028169014084507043
+WMT,Walmart,Consumer,2025,Strategy & M&A,0,0.0
+KO,Coca-Cola,Consumer,2019,Macroeconomic & Market,1,0.01639344262295082
+KO,Coca-Cola,Consumer,2019,Financial & Credit,7,0.11475409836065574
+KO,Coca-Cola,Consumer,2019,Regulatory & Legal,10,0.16393442622950818
+KO,Coca-Cola,Consumer,2019,Cybersecurity & Data Privacy,6,0.09836065573770492
+KO,Coca-Cola,Consumer,2019,Supply Chain & Manufacturing,3,0.04918032786885246
+KO,Coca-Cola,Consumer,2019,Competition & Demand,8,0.13114754098360656
+KO,Coca-Cola,Consumer,2019,Product & Technology,3,0.04918032786885246
+KO,Coca-Cola,Consumer,2019,International & Geopolitical,4,0.06557377049180328
+KO,Coca-Cola,Consumer,2019,People & Key Personnel,3,0.04918032786885246
+KO,Coca-Cola,Consumer,2019,Stock & Governance,0,0.0
+KO,Coca-Cola,Consumer,2019,Operational & Business Continuity,3,0.04918032786885246
+KO,Coca-Cola,Consumer,2019,Climate & ESG,8,0.13114754098360656
+KO,Coca-Cola,Consumer,2019,Strategy & M&A,5,0.08196721311475409
+KO,Coca-Cola,Consumer,2020,Macroeconomic & Market,1,0.014492753623188406
+KO,Coca-Cola,Consumer,2020,Financial & Credit,4,0.057971014492753624
+KO,Coca-Cola,Consumer,2020,Regulatory & Legal,11,0.15942028985507245
+KO,Coca-Cola,Consumer,2020,Cybersecurity & Data Privacy,5,0.07246376811594203
+KO,Coca-Cola,Consumer,2020,Supply Chain & Manufacturing,5,0.07246376811594203
+KO,Coca-Cola,Consumer,2020,Competition & Demand,10,0.14492753623188406
+KO,Coca-Cola,Consumer,2020,Product & Technology,5,0.07246376811594203
+KO,Coca-Cola,Consumer,2020,International & Geopolitical,5,0.07246376811594203
+KO,Coca-Cola,Consumer,2020,People & Key Personnel,3,0.043478260869565216
+KO,Coca-Cola,Consumer,2020,Stock & Governance,0,0.0
+KO,Coca-Cola,Consumer,2020,Operational & Business Continuity,6,0.08695652173913043
+KO,Coca-Cola,Consumer,2020,Climate & ESG,8,0.11594202898550725
+KO,Coca-Cola,Consumer,2020,Strategy & M&A,6,0.08695652173913043
+KO,Coca-Cola,Consumer,2021,Macroeconomic & Market,0,0.0
+KO,Coca-Cola,Consumer,2021,Financial & Credit,5,0.07042253521126761
+KO,Coca-Cola,Consumer,2021,Regulatory & Legal,10,0.14084507042253522
+KO,Coca-Cola,Consumer,2021,Cybersecurity & Data Privacy,8,0.11267605633802817
+KO,Coca-Cola,Consumer,2021,Supply Chain & Manufacturing,7,0.09859154929577464
+KO,Coca-Cola,Consumer,2021,Competition & Demand,11,0.15492957746478872
+KO,Coca-Cola,Consumer,2021,Product & Technology,4,0.056338028169014086
+KO,Coca-Cola,Consumer,2021,International & Geopolitical,5,0.07042253521126761
+KO,Coca-Cola,Consumer,2021,People & Key Personnel,3,0.04225352112676056
+KO,Coca-Cola,Consumer,2021,Stock & Governance,0,0.0
+KO,Coca-Cola,Consumer,2021,Operational & Business Continuity,3,0.04225352112676056
+KO,Coca-Cola,Consumer,2021,Climate & ESG,9,0.1267605633802817
+KO,Coca-Cola,Consumer,2021,Strategy & M&A,6,0.08450704225352113
+KO,Coca-Cola,Consumer,2022,Macroeconomic & Market,1,0.014084507042253521
+KO,Coca-Cola,Consumer,2022,Financial & Credit,5,0.07042253521126761
+KO,Coca-Cola,Consumer,2022,Regulatory & Legal,13,0.18309859154929578
+KO,Coca-Cola,Consumer,2022,Cybersecurity & Data Privacy,8,0.11267605633802817
+KO,Coca-Cola,Consumer,2022,Supply Chain & Manufacturing,5,0.07042253521126761
+KO,Coca-Cola,Consumer,2022,Competition & Demand,11,0.15492957746478872
+KO,Coca-Cola,Consumer,2022,Product & Technology,3,0.04225352112676056
+KO,Coca-Cola,Consumer,2022,International & Geopolitical,4,0.056338028169014086
+KO,Coca-Cola,Consumer,2022,People & Key Personnel,4,0.056338028169014086
+KO,Coca-Cola,Consumer,2022,Stock & Governance,0,0.0
+KO,Coca-Cola,Consumer,2022,Operational & Business Continuity,3,0.04225352112676056
+KO,Coca-Cola,Consumer,2022,Climate & ESG,9,0.1267605633802817
+KO,Coca-Cola,Consumer,2022,Strategy & M&A,5,0.07042253521126761
+KO,Coca-Cola,Consumer,2023,Macroeconomic & Market,1,0.0136986301369863
+KO,Coca-Cola,Consumer,2023,Financial & Credit,5,0.0684931506849315
+KO,Coca-Cola,Consumer,2023,Regulatory & Legal,11,0.1506849315068493
+KO,Coca-Cola,Consumer,2023,Cybersecurity & Data Privacy,9,0.1232876712328767
+KO,Coca-Cola,Consumer,2023,Supply Chain & Manufacturing,4,0.0547945205479452
+KO,Coca-Cola,Consumer,2023,Competition & Demand,13,0.1780821917808219
+KO,Coca-Cola,Consumer,2023,Product & Technology,5,0.0684931506849315
+KO,Coca-Cola,Consumer,2023,International & Geopolitical,4,0.0547945205479452
+KO,Coca-Cola,Consumer,2023,People & Key Personnel,4,0.0547945205479452
+KO,Coca-Cola,Consumer,2023,Stock & Governance,0,0.0
+KO,Coca-Cola,Consumer,2023,Operational & Business Continuity,1,0.0136986301369863
+KO,Coca-Cola,Consumer,2023,Climate & ESG,10,0.136986301369863
+KO,Coca-Cola,Consumer,2023,Strategy & M&A,6,0.0821917808219178
+KO,Coca-Cola,Consumer,2024,Macroeconomic & Market,2,0.02631578947368421
+KO,Coca-Cola,Consumer,2024,Financial & Credit,4,0.05263157894736842
+KO,Coca-Cola,Consumer,2024,Regulatory & Legal,12,0.15789473684210525
+KO,Coca-Cola,Consumer,2024,Cybersecurity & Data Privacy,8,0.10526315789473684
+KO,Coca-Cola,Consumer,2024,Supply Chain & Manufacturing,2,0.02631578947368421
+KO,Coca-Cola,Consumer,2024,Competition & Demand,12,0.15789473684210525
+KO,Coca-Cola,Consumer,2024,Product & Technology,5,0.06578947368421052
+KO,Coca-Cola,Consumer,2024,International & Geopolitical,5,0.06578947368421052
+KO,Coca-Cola,Consumer,2024,People & Key Personnel,5,0.06578947368421052
+KO,Coca-Cola,Consumer,2024,Stock & Governance,0,0.0
+KO,Coca-Cola,Consumer,2024,Operational & Business Continuity,2,0.02631578947368421
+KO,Coca-Cola,Consumer,2024,Climate & ESG,13,0.17105263157894737
+KO,Coca-Cola,Consumer,2024,Strategy & M&A,6,0.07894736842105263
+KO,Coca-Cola,Consumer,2025,Macroeconomic & Market,1,0.01282051282051282
+KO,Coca-Cola,Consumer,2025,Financial & Credit,4,0.05128205128205128
+KO,Coca-Cola,Consumer,2025,Regulatory & Legal,14,0.1794871794871795
+KO,Coca-Cola,Consumer,2025,Cybersecurity & Data Privacy,8,0.10256410256410256
+KO,Coca-Cola,Consumer,2025,Supply Chain & Manufacturing,3,0.038461538461538464
+KO,Coca-Cola,Consumer,2025,Competition & Demand,14,0.1794871794871795
+KO,Coca-Cola,Consumer,2025,Product & Technology,4,0.05128205128205128
+KO,Coca-Cola,Consumer,2025,International & Geopolitical,4,0.05128205128205128
+KO,Coca-Cola,Consumer,2025,People & Key Personnel,4,0.05128205128205128
+KO,Coca-Cola,Consumer,2025,Stock & Governance,0,0.0
+KO,Coca-Cola,Consumer,2025,Operational & Business Continuity,3,0.038461538461538464
+KO,Coca-Cola,Consumer,2025,Climate & ESG,12,0.15384615384615385
+KO,Coca-Cola,Consumer,2025,Strategy & M&A,7,0.08974358974358974
+NKE,Nike,Consumer,2019,Macroeconomic & Market,4,0.0784313725490196
+NKE,Nike,Consumer,2019,Financial & Credit,4,0.0784313725490196
+NKE,Nike,Consumer,2019,Regulatory & Legal,6,0.11764705882352941
+NKE,Nike,Consumer,2019,Cybersecurity & Data Privacy,2,0.0392156862745098
+NKE,Nike,Consumer,2019,Supply Chain & Manufacturing,3,0.058823529411764705
+NKE,Nike,Consumer,2019,Competition & Demand,12,0.23529411764705882
+NKE,Nike,Consumer,2019,Product & Technology,3,0.058823529411764705
+NKE,Nike,Consumer,2019,International & Geopolitical,7,0.13725490196078433
+NKE,Nike,Consumer,2019,People & Key Personnel,1,0.0196078431372549
+NKE,Nike,Consumer,2019,Stock & Governance,3,0.058823529411764705
+NKE,Nike,Consumer,2019,Operational & Business Continuity,5,0.09803921568627451
+NKE,Nike,Consumer,2019,Climate & ESG,0,0.0
+NKE,Nike,Consumer,2019,Strategy & M&A,1,0.0196078431372549
+NKE,Nike,Consumer,2020,Macroeconomic & Market,1,0.015384615384615385
+NKE,Nike,Consumer,2020,Financial & Credit,5,0.07692307692307693
+NKE,Nike,Consumer,2020,Regulatory & Legal,6,0.09230769230769231
+NKE,Nike,Consumer,2020,Cybersecurity & Data Privacy,4,0.06153846153846154
+NKE,Nike,Consumer,2020,Supply Chain & Manufacturing,5,0.07692307692307693
+NKE,Nike,Consumer,2020,Competition & Demand,15,0.23076923076923078
+NKE,Nike,Consumer,2020,Product & Technology,4,0.06153846153846154
+NKE,Nike,Consumer,2020,International & Geopolitical,10,0.15384615384615385
+NKE,Nike,Consumer,2020,People & Key Personnel,2,0.03076923076923077
+NKE,Nike,Consumer,2020,Stock & Governance,3,0.046153846153846156
+NKE,Nike,Consumer,2020,Operational & Business Continuity,9,0.13846153846153847
+NKE,Nike,Consumer,2020,Climate & ESG,0,0.0
+NKE,Nike,Consumer,2020,Strategy & M&A,1,0.015384615384615385
+NKE,Nike,Consumer,2021,Macroeconomic & Market,2,0.03076923076923077
+NKE,Nike,Consumer,2021,Financial & Credit,5,0.07692307692307693
+NKE,Nike,Consumer,2021,Regulatory & Legal,7,0.1076923076923077
+NKE,Nike,Consumer,2021,Cybersecurity & Data Privacy,4,0.06153846153846154
+NKE,Nike,Consumer,2021,Supply Chain & Manufacturing,5,0.07692307692307693
+NKE,Nike,Consumer,2021,Competition & Demand,15,0.23076923076923078
+NKE,Nike,Consumer,2021,Product & Technology,3,0.046153846153846156
+NKE,Nike,Consumer,2021,International & Geopolitical,7,0.1076923076923077
+NKE,Nike,Consumer,2021,People & Key Personnel,3,0.046153846153846156
+NKE,Nike,Consumer,2021,Stock & Governance,3,0.046153846153846156
+NKE,Nike,Consumer,2021,Operational & Business Continuity,10,0.15384615384615385
+NKE,Nike,Consumer,2021,Climate & ESG,0,0.0
+NKE,Nike,Consumer,2021,Strategy & M&A,1,0.015384615384615385
+NKE,Nike,Consumer,2022,Macroeconomic & Market,1,0.014285714285714285
+NKE,Nike,Consumer,2022,Financial & Credit,6,0.08571428571428572
+NKE,Nike,Consumer,2022,Regulatory & Legal,7,0.1
+NKE,Nike,Consumer,2022,Cybersecurity & Data Privacy,4,0.05714285714285714
+NKE,Nike,Consumer,2022,Supply Chain & Manufacturing,3,0.04285714285714286
+NKE,Nike,Consumer,2022,Competition & Demand,16,0.22857142857142856
+NKE,Nike,Consumer,2022,Product & Technology,4,0.05714285714285714
+NKE,Nike,Consumer,2022,International & Geopolitical,7,0.1
+NKE,Nike,Consumer,2022,People & Key Personnel,3,0.04285714285714286
+NKE,Nike,Consumer,2022,Stock & Governance,3,0.04285714285714286
+NKE,Nike,Consumer,2022,Operational & Business Continuity,12,0.17142857142857143
+NKE,Nike,Consumer,2022,Climate & ESG,3,0.04285714285714286
+NKE,Nike,Consumer,2022,Strategy & M&A,1,0.014285714285714285
+NKE,Nike,Consumer,2023,Macroeconomic & Market,1,0.014084507042253521
+NKE,Nike,Consumer,2023,Financial & Credit,5,0.07042253521126761
+NKE,Nike,Consumer,2023,Regulatory & Legal,6,0.08450704225352113
+NKE,Nike,Consumer,2023,Cybersecurity & Data Privacy,6,0.08450704225352113
+NKE,Nike,Consumer,2023,Supply Chain & Manufacturing,5,0.07042253521126761
+NKE,Nike,Consumer,2023,Competition & Demand,17,0.23943661971830985
+NKE,Nike,Consumer,2023,Product & Technology,4,0.056338028169014086
+NKE,Nike,Consumer,2023,International & Geopolitical,6,0.08450704225352113
+NKE,Nike,Consumer,2023,People & Key Personnel,3,0.04225352112676056
+NKE,Nike,Consumer,2023,Stock & Governance,3,0.04225352112676056
+NKE,Nike,Consumer,2023,Operational & Business Continuity,11,0.15492957746478872
+NKE,Nike,Consumer,2023,Climate & ESG,3,0.04225352112676056
+NKE,Nike,Consumer,2023,Strategy & M&A,1,0.014084507042253521
+NKE,Nike,Consumer,2024,Macroeconomic & Market,1,0.013333333333333334
+NKE,Nike,Consumer,2024,Financial & Credit,4,0.05333333333333334
+NKE,Nike,Consumer,2024,Regulatory & Legal,8,0.10666666666666667
+NKE,Nike,Consumer,2024,Cybersecurity & Data Privacy,5,0.06666666666666667
+NKE,Nike,Consumer,2024,Supply Chain & Manufacturing,3,0.04
+NKE,Nike,Consumer,2024,Competition & Demand,18,0.24
+NKE,Nike,Consumer,2024,Product & Technology,5,0.06666666666666667
+NKE,Nike,Consumer,2024,International & Geopolitical,8,0.10666666666666667
+NKE,Nike,Consumer,2024,People & Key Personnel,3,0.04
+NKE,Nike,Consumer,2024,Stock & Governance,3,0.04
+NKE,Nike,Consumer,2024,Operational & Business Continuity,11,0.14666666666666667
+NKE,Nike,Consumer,2024,Climate & ESG,4,0.05333333333333334
+NKE,Nike,Consumer,2024,Strategy & M&A,2,0.02666666666666667
+NKE,Nike,Consumer,2025,Macroeconomic & Market,2,0.02702702702702703
+NKE,Nike,Consumer,2025,Financial & Credit,4,0.05405405405405406
+NKE,Nike,Consumer,2025,Regulatory & Legal,8,0.10810810810810811
+NKE,Nike,Consumer,2025,Cybersecurity & Data Privacy,6,0.08108108108108109
+NKE,Nike,Consumer,2025,Supply Chain & Manufacturing,4,0.05405405405405406
+NKE,Nike,Consumer,2025,Competition & Demand,16,0.21621621621621623
+NKE,Nike,Consumer,2025,Product & Technology,5,0.06756756756756757
+NKE,Nike,Consumer,2025,International & Geopolitical,8,0.10810810810810811
+NKE,Nike,Consumer,2025,People & Key Personnel,4,0.05405405405405406
+NKE,Nike,Consumer,2025,Stock & Governance,3,0.04054054054054054
+NKE,Nike,Consumer,2025,Operational & Business Continuity,9,0.12162162162162163
+NKE,Nike,Consumer,2025,Climate & ESG,4,0.05405405405405406
+NKE,Nike,Consumer,2025,Strategy & M&A,1,0.013513513513513514
+NKE,Nike,Consumer,2026,Macroeconomic & Market,1,0.012987012987012988
+NKE,Nike,Consumer,2026,Financial & Credit,5,0.06493506493506493
+NKE,Nike,Consumer,2026,Regulatory & Legal,7,0.09090909090909091
+NKE,Nike,Consumer,2026,Cybersecurity & Data Privacy,6,0.07792207792207792
+NKE,Nike,Consumer,2026,Supply Chain & Manufacturing,6,0.07792207792207792
+NKE,Nike,Consumer,2026,Competition & Demand,21,0.2727272727272727
+NKE,Nike,Consumer,2026,Product & Technology,6,0.07792207792207792
+NKE,Nike,Consumer,2026,International & Geopolitical,8,0.1038961038961039
+NKE,Nike,Consumer,2026,People & Key Personnel,3,0.03896103896103896
+NKE,Nike,Consumer,2026,Stock & Governance,4,0.05194805194805195
+NKE,Nike,Consumer,2026,Operational & Business Continuity,6,0.07792207792207792
+NKE,Nike,Consumer,2026,Climate & ESG,3,0.03896103896103896
+NKE,Nike,Consumer,2026,Strategy & M&A,1,0.012987012987012988
+TSLA,Tesla,Autos & Industrials,2019,Macroeconomic & Market,0,0.0
+TSLA,Tesla,Autos & Industrials,2019,Financial & Credit,7,0.08860759493670886
+TSLA,Tesla,Autos & Industrials,2019,Regulatory & Legal,12,0.1518987341772152
+TSLA,Tesla,Autos & Industrials,2019,Cybersecurity & Data Privacy,4,0.05063291139240506
+TSLA,Tesla,Autos & Industrials,2019,Supply Chain & Manufacturing,19,0.24050632911392406
+TSLA,Tesla,Autos & Industrials,2019,Competition & Demand,9,0.11392405063291139
+TSLA,Tesla,Autos & Industrials,2019,Product & Technology,7,0.08860759493670886
+TSLA,Tesla,Autos & Industrials,2019,International & Geopolitical,4,0.05063291139240506
+TSLA,Tesla,Autos & Industrials,2019,People & Key Personnel,5,0.06329113924050633
+TSLA,Tesla,Autos & Industrials,2019,Stock & Governance,7,0.08860759493670886
+TSLA,Tesla,Autos & Industrials,2019,Operational & Business Continuity,4,0.05063291139240506
+TSLA,Tesla,Autos & Industrials,2019,Climate & ESG,0,0.0
+TSLA,Tesla,Autos & Industrials,2019,Strategy & M&A,1,0.012658227848101266
+TSLA,Tesla,Autos & Industrials,2020,Macroeconomic & Market,1,0.014285714285714285
+TSLA,Tesla,Autos & Industrials,2020,Financial & Credit,6,0.08571428571428572
+TSLA,Tesla,Autos & Industrials,2020,Regulatory & Legal,13,0.18571428571428572
+TSLA,Tesla,Autos & Industrials,2020,Cybersecurity & Data Privacy,6,0.08571428571428572
+TSLA,Tesla,Autos & Industrials,2020,Supply Chain & Manufacturing,17,0.24285714285714285
+TSLA,Tesla,Autos & Industrials,2020,Competition & Demand,7,0.1
+TSLA,Tesla,Autos & Industrials,2020,Product & Technology,7,0.1
+TSLA,Tesla,Autos & Industrials,2020,International & Geopolitical,1,0.014285714285714285
+TSLA,Tesla,Autos & Industrials,2020,People & Key Personnel,4,0.05714285714285714
+TSLA,Tesla,Autos & Industrials,2020,Stock & Governance,5,0.07142857142857142
+TSLA,Tesla,Autos & Industrials,2020,Operational & Business Continuity,2,0.02857142857142857
+TSLA,Tesla,Autos & Industrials,2020,Climate & ESG,0,0.0
+TSLA,Tesla,Autos & Industrials,2020,Strategy & M&A,1,0.014285714285714285
+TSLA,Tesla,Autos & Industrials,2021,Macroeconomic & Market,2,0.027777777777777776
+TSLA,Tesla,Autos & Industrials,2021,Financial & Credit,7,0.09722222222222222
+TSLA,Tesla,Autos & Industrials,2021,Regulatory & Legal,14,0.19444444444444445
+TSLA,Tesla,Autos & Industrials,2021,Cybersecurity & Data Privacy,6,0.08333333333333333
+TSLA,Tesla,Autos & Industrials,2021,Supply Chain & Manufacturing,15,0.20833333333333334
+TSLA,Tesla,Autos & Industrials,2021,Competition & Demand,5,0.06944444444444445
+TSLA,Tesla,Autos & Industrials,2021,Product & Technology,7,0.09722222222222222
+TSLA,Tesla,Autos & Industrials,2021,International & Geopolitical,3,0.041666666666666664
+TSLA,Tesla,Autos & Industrials,2021,People & Key Personnel,4,0.05555555555555555
+TSLA,Tesla,Autos & Industrials,2021,Stock & Governance,4,0.05555555555555555
+TSLA,Tesla,Autos & Industrials,2021,Operational & Business Continuity,3,0.041666666666666664
+TSLA,Tesla,Autos & Industrials,2021,Climate & ESG,1,0.013888888888888888
+TSLA,Tesla,Autos & Industrials,2021,Strategy & M&A,1,0.013888888888888888
+TSLA,Tesla,Autos & Industrials,2022,Macroeconomic & Market,1,0.014492753623188406
+TSLA,Tesla,Autos & Industrials,2022,Financial & Credit,5,0.07246376811594203
+TSLA,Tesla,Autos & Industrials,2022,Regulatory & Legal,14,0.2028985507246377
+TSLA,Tesla,Autos & Industrials,2022,Cybersecurity & Data Privacy,6,0.08695652173913043
+TSLA,Tesla,Autos & Industrials,2022,Supply Chain & Manufacturing,15,0.21739130434782608
+TSLA,Tesla,Autos & Industrials,2022,Competition & Demand,10,0.14492753623188406
+TSLA,Tesla,Autos & Industrials,2022,Product & Technology,8,0.11594202898550725
+TSLA,Tesla,Autos & Industrials,2022,International & Geopolitical,2,0.028985507246376812
+TSLA,Tesla,Autos & Industrials,2022,People & Key Personnel,3,0.043478260869565216
+TSLA,Tesla,Autos & Industrials,2022,Stock & Governance,3,0.043478260869565216
+TSLA,Tesla,Autos & Industrials,2022,Operational & Business Continuity,1,0.014492753623188406
+TSLA,Tesla,Autos & Industrials,2022,Climate & ESG,1,0.014492753623188406
+TSLA,Tesla,Autos & Industrials,2022,Strategy & M&A,0,0.0
+TSLA,Tesla,Autos & Industrials,2023,Macroeconomic & Market,0,0.0
+TSLA,Tesla,Autos & Industrials,2023,Financial & Credit,4,0.0625
+TSLA,Tesla,Autos & Industrials,2023,Regulatory & Legal,12,0.1875
+TSLA,Tesla,Autos & Industrials,2023,Cybersecurity & Data Privacy,7,0.109375
+TSLA,Tesla,Autos & Industrials,2023,Supply Chain & Manufacturing,12,0.1875
+TSLA,Tesla,Autos & Industrials,2023,Competition & Demand,10,0.15625
+TSLA,Tesla,Autos & Industrials,2023,Product & Technology,8,0.125
+TSLA,Tesla,Autos & Industrials,2023,International & Geopolitical,2,0.03125
+TSLA,Tesla,Autos & Industrials,2023,People & Key Personnel,3,0.046875
+TSLA,Tesla,Autos & Industrials,2023,Stock & Governance,3,0.046875
+TSLA,Tesla,Autos & Industrials,2023,Operational & Business Continuity,1,0.015625
+TSLA,Tesla,Autos & Industrials,2023,Climate & ESG,1,0.015625
+TSLA,Tesla,Autos & Industrials,2023,Strategy & M&A,1,0.015625
+TSLA,Tesla,Autos & Industrials,2024,Macroeconomic & Market,0,0.0
+TSLA,Tesla,Autos & Industrials,2024,Financial & Credit,4,0.06153846153846154
+TSLA,Tesla,Autos & Industrials,2024,Regulatory & Legal,15,0.23076923076923078
+TSLA,Tesla,Autos & Industrials,2024,Cybersecurity & Data Privacy,5,0.07692307692307693
+TSLA,Tesla,Autos & Industrials,2024,Supply Chain & Manufacturing,11,0.16923076923076924
+TSLA,Tesla,Autos & Industrials,2024,Competition & Demand,9,0.13846153846153847
+TSLA,Tesla,Autos & Industrials,2024,Product & Technology,8,0.12307692307692308
+TSLA,Tesla,Autos & Industrials,2024,International & Geopolitical,3,0.046153846153846156
+TSLA,Tesla,Autos & Industrials,2024,People & Key Personnel,3,0.046153846153846156
+TSLA,Tesla,Autos & Industrials,2024,Stock & Governance,3,0.046153846153846156
+TSLA,Tesla,Autos & Industrials,2024,Operational & Business Continuity,2,0.03076923076923077
+TSLA,Tesla,Autos & Industrials,2024,Climate & ESG,1,0.015384615384615385
+TSLA,Tesla,Autos & Industrials,2024,Strategy & M&A,1,0.015384615384615385
+TSLA,Tesla,Autos & Industrials,2025,Macroeconomic & Market,0,0.0
+TSLA,Tesla,Autos & Industrials,2025,Financial & Credit,5,0.07246376811594203
+TSLA,Tesla,Autos & Industrials,2025,Regulatory & Legal,11,0.15942028985507245
+TSLA,Tesla,Autos & Industrials,2025,Cybersecurity & Data Privacy,5,0.07246376811594203
+TSLA,Tesla,Autos & Industrials,2025,Supply Chain & Manufacturing,13,0.18840579710144928
+TSLA,Tesla,Autos & Industrials,2025,Competition & Demand,10,0.14492753623188406
+TSLA,Tesla,Autos & Industrials,2025,Product & Technology,11,0.15942028985507245
+TSLA,Tesla,Autos & Industrials,2025,International & Geopolitical,3,0.043478260869565216
+TSLA,Tesla,Autos & Industrials,2025,People & Key Personnel,3,0.043478260869565216
+TSLA,Tesla,Autos & Industrials,2025,Stock & Governance,4,0.057971014492753624
+TSLA,Tesla,Autos & Industrials,2025,Operational & Business Continuity,2,0.028985507246376812
+TSLA,Tesla,Autos & Industrials,2025,Climate & ESG,0,0.0
+TSLA,Tesla,Autos & Industrials,2025,Strategy & M&A,2,0.028985507246376812
+GM,General Motors,Autos & Industrials,2019,Macroeconomic & Market,1,0.02702702702702703
+GM,General Motors,Autos & Industrials,2019,Financial & Credit,3,0.08108108108108109
+GM,General Motors,Autos & Industrials,2019,Regulatory & Legal,6,0.16216216216216217
+GM,General Motors,Autos & Industrials,2019,Cybersecurity & Data Privacy,6,0.16216216216216217
+GM,General Motors,Autos & Industrials,2019,Supply Chain & Manufacturing,4,0.10810810810810811
+GM,General Motors,Autos & Industrials,2019,Competition & Demand,7,0.1891891891891892
+GM,General Motors,Autos & Industrials,2019,Product & Technology,4,0.10810810810810811
+GM,General Motors,Autos & Industrials,2019,International & Geopolitical,3,0.08108108108108109
+GM,General Motors,Autos & Industrials,2019,People & Key Personnel,0,0.0
+GM,General Motors,Autos & Industrials,2019,Stock & Governance,0,0.0
+GM,General Motors,Autos & Industrials,2019,Operational & Business Continuity,0,0.0
+GM,General Motors,Autos & Industrials,2019,Climate & ESG,0,0.0
+GM,General Motors,Autos & Industrials,2019,Strategy & M&A,3,0.08108108108108109
+GM,General Motors,Autos & Industrials,2020,Macroeconomic & Market,0,0.0
+GM,General Motors,Autos & Industrials,2020,Financial & Credit,5,0.1282051282051282
+GM,General Motors,Autos & Industrials,2020,Regulatory & Legal,6,0.15384615384615385
+GM,General Motors,Autos & Industrials,2020,Cybersecurity & Data Privacy,5,0.1282051282051282
+GM,General Motors,Autos & Industrials,2020,Supply Chain & Manufacturing,4,0.10256410256410256
+GM,General Motors,Autos & Industrials,2020,Competition & Demand,6,0.15384615384615385
+GM,General Motors,Autos & Industrials,2020,Product & Technology,4,0.10256410256410256
+GM,General Motors,Autos & Industrials,2020,International & Geopolitical,3,0.07692307692307693
+GM,General Motors,Autos & Industrials,2020,People & Key Personnel,0,0.0
+GM,General Motors,Autos & Industrials,2020,Stock & Governance,0,0.0
+GM,General Motors,Autos & Industrials,2020,Operational & Business Continuity,2,0.05128205128205128
+GM,General Motors,Autos & Industrials,2020,Climate & ESG,1,0.02564102564102564
+GM,General Motors,Autos & Industrials,2020,Strategy & M&A,3,0.07692307692307693
+GM,General Motors,Autos & Industrials,2021,Macroeconomic & Market,1,0.022222222222222223
+GM,General Motors,Autos & Industrials,2021,Financial & Credit,3,0.06666666666666667
+GM,General Motors,Autos & Industrials,2021,Regulatory & Legal,8,0.17777777777777778
+GM,General Motors,Autos & Industrials,2021,Cybersecurity & Data Privacy,5,0.1111111111111111
+GM,General Motors,Autos & Industrials,2021,Supply Chain & Manufacturing,4,0.08888888888888889
+GM,General Motors,Autos & Industrials,2021,Competition & Demand,6,0.13333333333333333
+GM,General Motors,Autos & Industrials,2021,Product & Technology,4,0.08888888888888889
+GM,General Motors,Autos & Industrials,2021,International & Geopolitical,3,0.06666666666666667
+GM,General Motors,Autos & Industrials,2021,People & Key Personnel,0,0.0
+GM,General Motors,Autos & Industrials,2021,Stock & Governance,0,0.0
+GM,General Motors,Autos & Industrials,2021,Operational & Business Continuity,3,0.06666666666666667
+GM,General Motors,Autos & Industrials,2021,Climate & ESG,3,0.06666666666666667
+GM,General Motors,Autos & Industrials,2021,Strategy & M&A,5,0.1111111111111111
+GM,General Motors,Autos & Industrials,2022,Macroeconomic & Market,1,0.02127659574468085
+GM,General Motors,Autos & Industrials,2022,Financial & Credit,2,0.0425531914893617
+GM,General Motors,Autos & Industrials,2022,Regulatory & Legal,8,0.1702127659574468
+GM,General Motors,Autos & Industrials,2022,Cybersecurity & Data Privacy,6,0.1276595744680851
+GM,General Motors,Autos & Industrials,2022,Supply Chain & Manufacturing,4,0.0851063829787234
+GM,General Motors,Autos & Industrials,2022,Competition & Demand,8,0.1702127659574468
+GM,General Motors,Autos & Industrials,2022,Product & Technology,4,0.0851063829787234
+GM,General Motors,Autos & Industrials,2022,International & Geopolitical,4,0.0851063829787234
+GM,General Motors,Autos & Industrials,2022,People & Key Personnel,1,0.02127659574468085
+GM,General Motors,Autos & Industrials,2022,Stock & Governance,0,0.0
+GM,General Motors,Autos & Industrials,2022,Operational & Business Continuity,1,0.02127659574468085
+GM,General Motors,Autos & Industrials,2022,Climate & ESG,2,0.0425531914893617
+GM,General Motors,Autos & Industrials,2022,Strategy & M&A,6,0.1276595744680851
+GM,General Motors,Autos & Industrials,2023,Macroeconomic & Market,1,0.02
+GM,General Motors,Autos & Industrials,2023,Financial & Credit,2,0.04
+GM,General Motors,Autos & Industrials,2023,Regulatory & Legal,9,0.18
+GM,General Motors,Autos & Industrials,2023,Cybersecurity & Data Privacy,6,0.12
+GM,General Motors,Autos & Industrials,2023,Supply Chain & Manufacturing,5,0.1
+GM,General Motors,Autos & Industrials,2023,Competition & Demand,7,0.14
+GM,General Motors,Autos & Industrials,2023,Product & Technology,6,0.12
+GM,General Motors,Autos & Industrials,2023,International & Geopolitical,4,0.08
+GM,General Motors,Autos & Industrials,2023,People & Key Personnel,1,0.02
+GM,General Motors,Autos & Industrials,2023,Stock & Governance,0,0.0
+GM,General Motors,Autos & Industrials,2023,Operational & Business Continuity,1,0.02
+GM,General Motors,Autos & Industrials,2023,Climate & ESG,2,0.04
+GM,General Motors,Autos & Industrials,2023,Strategy & M&A,6,0.12
+GM,General Motors,Autos & Industrials,2024,Macroeconomic & Market,1,0.018518518518518517
+GM,General Motors,Autos & Industrials,2024,Financial & Credit,2,0.037037037037037035
+GM,General Motors,Autos & Industrials,2024,Regulatory & Legal,7,0.12962962962962962
+GM,General Motors,Autos & Industrials,2024,Cybersecurity & Data Privacy,6,0.1111111111111111
+GM,General Motors,Autos & Industrials,2024,Supply Chain & Manufacturing,7,0.12962962962962962
+GM,General Motors,Autos & Industrials,2024,Competition & Demand,9,0.16666666666666666
+GM,General Motors,Autos & Industrials,2024,Product & Technology,7,0.12962962962962962
+GM,General Motors,Autos & Industrials,2024,International & Geopolitical,4,0.07407407407407407
+GM,General Motors,Autos & Industrials,2024,People & Key Personnel,0,0.0
+GM,General Motors,Autos & Industrials,2024,Stock & Governance,0,0.0
+GM,General Motors,Autos & Industrials,2024,Operational & Business Continuity,0,0.0
+GM,General Motors,Autos & Industrials,2024,Climate & ESG,4,0.07407407407407407
+GM,General Motors,Autos & Industrials,2024,Strategy & M&A,7,0.12962962962962962
+GM,General Motors,Autos & Industrials,2025,Macroeconomic & Market,1,0.0196078431372549
+GM,General Motors,Autos & Industrials,2025,Financial & Credit,2,0.0392156862745098
+GM,General Motors,Autos & Industrials,2025,Regulatory & Legal,7,0.13725490196078433
+GM,General Motors,Autos & Industrials,2025,Cybersecurity & Data Privacy,7,0.13725490196078433
+GM,General Motors,Autos & Industrials,2025,Supply Chain & Manufacturing,6,0.11764705882352941
+GM,General Motors,Autos & Industrials,2025,Competition & Demand,6,0.11764705882352941
+GM,General Motors,Autos & Industrials,2025,Product & Technology,4,0.0784313725490196
+GM,General Motors,Autos & Industrials,2025,International & Geopolitical,5,0.09803921568627451
+GM,General Motors,Autos & Industrials,2025,People & Key Personnel,0,0.0
+GM,General Motors,Autos & Industrials,2025,Stock & Governance,0,0.0
+GM,General Motors,Autos & Industrials,2025,Operational & Business Continuity,2,0.0392156862745098
+GM,General Motors,Autos & Industrials,2025,Climate & ESG,3,0.058823529411764705
+GM,General Motors,Autos & Industrials,2025,Strategy & M&A,8,0.1568627450980392
+BA,Boeing,Autos & Industrials,2019,Macroeconomic & Market,0,0.0
+BA,Boeing,Autos & Industrials,2019,Financial & Credit,7,0.2
+BA,Boeing,Autos & Industrials,2019,Regulatory & Legal,9,0.2571428571428571
+BA,Boeing,Autos & Industrials,2019,Cybersecurity & Data Privacy,1,0.02857142857142857
+BA,Boeing,Autos & Industrials,2019,Supply Chain & Manufacturing,7,0.2
+BA,Boeing,Autos & Industrials,2019,Competition & Demand,2,0.05714285714285714
+BA,Boeing,Autos & Industrials,2019,Product & Technology,1,0.02857142857142857
+BA,Boeing,Autos & Industrials,2019,International & Geopolitical,1,0.02857142857142857
+BA,Boeing,Autos & Industrials,2019,People & Key Personnel,0,0.0
+BA,Boeing,Autos & Industrials,2019,Stock & Governance,0,0.0
+BA,Boeing,Autos & Industrials,2019,Operational & Business Continuity,6,0.17142857142857143
+BA,Boeing,Autos & Industrials,2019,Climate & ESG,0,0.0
+BA,Boeing,Autos & Industrials,2019,Strategy & M&A,1,0.02857142857142857
+BA,Boeing,Autos & Industrials,2020,Macroeconomic & Market,0,0.0
+BA,Boeing,Autos & Industrials,2020,Financial & Credit,10,0.21739130434782608
+BA,Boeing,Autos & Industrials,2020,Regulatory & Legal,9,0.1956521739130435
+BA,Boeing,Autos & Industrials,2020,Cybersecurity & Data Privacy,1,0.021739130434782608
+BA,Boeing,Autos & Industrials,2020,Supply Chain & Manufacturing,6,0.13043478260869565
+BA,Boeing,Autos & Industrials,2020,Competition & Demand,2,0.043478260869565216
+BA,Boeing,Autos & Industrials,2020,Product & Technology,0,0.0
+BA,Boeing,Autos & Industrials,2020,International & Geopolitical,2,0.043478260869565216
+BA,Boeing,Autos & Industrials,2020,People & Key Personnel,1,0.021739130434782608
+BA,Boeing,Autos & Industrials,2020,Stock & Governance,0,0.0
+BA,Boeing,Autos & Industrials,2020,Operational & Business Continuity,14,0.30434782608695654
+BA,Boeing,Autos & Industrials,2020,Climate & ESG,0,0.0
+BA,Boeing,Autos & Industrials,2020,Strategy & M&A,1,0.021739130434782608
+BA,Boeing,Autos & Industrials,2021,Macroeconomic & Market,0,0.0
+BA,Boeing,Autos & Industrials,2021,Financial & Credit,9,0.1875
+BA,Boeing,Autos & Industrials,2021,Regulatory & Legal,11,0.22916666666666666
+BA,Boeing,Autos & Industrials,2021,Cybersecurity & Data Privacy,1,0.020833333333333332
+BA,Boeing,Autos & Industrials,2021,Supply Chain & Manufacturing,6,0.125
+BA,Boeing,Autos & Industrials,2021,Competition & Demand,2,0.041666666666666664
+BA,Boeing,Autos & Industrials,2021,Product & Technology,0,0.0
+BA,Boeing,Autos & Industrials,2021,International & Geopolitical,2,0.041666666666666664
+BA,Boeing,Autos & Industrials,2021,People & Key Personnel,1,0.020833333333333332
+BA,Boeing,Autos & Industrials,2021,Stock & Governance,0,0.0
+BA,Boeing,Autos & Industrials,2021,Operational & Business Continuity,12,0.25
+BA,Boeing,Autos & Industrials,2021,Climate & ESG,2,0.041666666666666664
+BA,Boeing,Autos & Industrials,2021,Strategy & M&A,2,0.041666666666666664
+BA,Boeing,Autos & Industrials,2022,Macroeconomic & Market,0,0.0
+BA,Boeing,Autos & Industrials,2022,Financial & Credit,6,0.15384615384615385
+BA,Boeing,Autos & Industrials,2022,Regulatory & Legal,8,0.20512820512820512
+BA,Boeing,Autos & Industrials,2022,Cybersecurity & Data Privacy,2,0.05128205128205128
+BA,Boeing,Autos & Industrials,2022,Supply Chain & Manufacturing,6,0.15384615384615385
+BA,Boeing,Autos & Industrials,2022,Competition & Demand,3,0.07692307692307693
+BA,Boeing,Autos & Industrials,2022,Product & Technology,0,0.0
+BA,Boeing,Autos & Industrials,2022,International & Geopolitical,3,0.07692307692307693
+BA,Boeing,Autos & Industrials,2022,People & Key Personnel,1,0.02564102564102564
+BA,Boeing,Autos & Industrials,2022,Stock & Governance,0,0.0
+BA,Boeing,Autos & Industrials,2022,Operational & Business Continuity,7,0.1794871794871795
+BA,Boeing,Autos & Industrials,2022,Climate & ESG,2,0.05128205128205128
+BA,Boeing,Autos & Industrials,2022,Strategy & M&A,1,0.02564102564102564
+BA,Boeing,Autos & Industrials,2023,Macroeconomic & Market,0,0.0
+BA,Boeing,Autos & Industrials,2023,Financial & Credit,7,0.18421052631578946
+BA,Boeing,Autos & Industrials,2023,Regulatory & Legal,8,0.21052631578947367
+BA,Boeing,Autos & Industrials,2023,Cybersecurity & Data Privacy,2,0.05263157894736842
+BA,Boeing,Autos & Industrials,2023,Supply Chain & Manufacturing,4,0.10526315789473684
+BA,Boeing,Autos & Industrials,2023,Competition & Demand,2,0.05263157894736842
+BA,Boeing,Autos & Industrials,2023,Product & Technology,0,0.0
+BA,Boeing,Autos & Industrials,2023,International & Geopolitical,3,0.07894736842105263
+BA,Boeing,Autos & Industrials,2023,People & Key Personnel,1,0.02631578947368421
+BA,Boeing,Autos & Industrials,2023,Stock & Governance,0,0.0
+BA,Boeing,Autos & Industrials,2023,Operational & Business Continuity,8,0.21052631578947367
+BA,Boeing,Autos & Industrials,2023,Climate & ESG,2,0.05263157894736842
+BA,Boeing,Autos & Industrials,2023,Strategy & M&A,1,0.02631578947368421
+BA,Boeing,Autos & Industrials,2024,Macroeconomic & Market,1,0.022222222222222223
+BA,Boeing,Autos & Industrials,2024,Financial & Credit,7,0.15555555555555556
+BA,Boeing,Autos & Industrials,2024,Regulatory & Legal,9,0.2
+BA,Boeing,Autos & Industrials,2024,Cybersecurity & Data Privacy,3,0.06666666666666667
+BA,Boeing,Autos & Industrials,2024,Supply Chain & Manufacturing,5,0.1111111111111111
+BA,Boeing,Autos & Industrials,2024,Competition & Demand,3,0.06666666666666667
+BA,Boeing,Autos & Industrials,2024,Product & Technology,0,0.0
+BA,Boeing,Autos & Industrials,2024,International & Geopolitical,2,0.044444444444444446
+BA,Boeing,Autos & Industrials,2024,People & Key Personnel,2,0.044444444444444446
+BA,Boeing,Autos & Industrials,2024,Stock & Governance,2,0.044444444444444446
+BA,Boeing,Autos & Industrials,2024,Operational & Business Continuity,6,0.13333333333333333
+BA,Boeing,Autos & Industrials,2024,Climate & ESG,2,0.044444444444444446
+BA,Boeing,Autos & Industrials,2024,Strategy & M&A,3,0.06666666666666667
+BA,Boeing,Autos & Industrials,2025,Macroeconomic & Market,1,0.02127659574468085
+BA,Boeing,Autos & Industrials,2025,Financial & Credit,6,0.1276595744680851
+BA,Boeing,Autos & Industrials,2025,Regulatory & Legal,9,0.19148936170212766
+BA,Boeing,Autos & Industrials,2025,Cybersecurity & Data Privacy,3,0.06382978723404255
+BA,Boeing,Autos & Industrials,2025,Supply Chain & Manufacturing,7,0.14893617021276595
+BA,Boeing,Autos & Industrials,2025,Competition & Demand,3,0.06382978723404255
+BA,Boeing,Autos & Industrials,2025,Product & Technology,0,0.0
+BA,Boeing,Autos & Industrials,2025,International & Geopolitical,3,0.06382978723404255
+BA,Boeing,Autos & Industrials,2025,People & Key Personnel,2,0.0425531914893617
+BA,Boeing,Autos & Industrials,2025,Stock & Governance,2,0.0425531914893617
+BA,Boeing,Autos & Industrials,2025,Operational & Business Continuity,7,0.14893617021276595
+BA,Boeing,Autos & Industrials,2025,Climate & ESG,2,0.0425531914893617
+BA,Boeing,Autos & Industrials,2025,Strategy & M&A,2,0.0425531914893617
+JPM,JPMorgan Chase,Financials,2019,Macroeconomic & Market,10,0.11235955056179775
+JPM,JPMorgan Chase,Financials,2019,Financial & Credit,15,0.16853932584269662
+JPM,JPMorgan Chase,Financials,2019,Regulatory & Legal,25,0.2808988764044944
+JPM,JPMorgan Chase,Financials,2019,Cybersecurity & Data Privacy,9,0.10112359550561797
+JPM,JPMorgan Chase,Financials,2019,Supply Chain & Manufacturing,0,0.0
+JPM,JPMorgan Chase,Financials,2019,Competition & Demand,8,0.0898876404494382
+JPM,JPMorgan Chase,Financials,2019,Product & Technology,0,0.0
+JPM,JPMorgan Chase,Financials,2019,International & Geopolitical,8,0.0898876404494382
+JPM,JPMorgan Chase,Financials,2019,People & Key Personnel,1,0.011235955056179775
+JPM,JPMorgan Chase,Financials,2019,Stock & Governance,0,0.0
+JPM,JPMorgan Chase,Financials,2019,Operational & Business Continuity,13,0.14606741573033707
+JPM,JPMorgan Chase,Financials,2019,Climate & ESG,0,0.0
+JPM,JPMorgan Chase,Financials,2019,Strategy & M&A,0,0.0
+JPM,JPMorgan Chase,Financials,2020,Macroeconomic & Market,10,0.09803921568627451
+JPM,JPMorgan Chase,Financials,2020,Financial & Credit,20,0.19607843137254902
+JPM,JPMorgan Chase,Financials,2020,Regulatory & Legal,23,0.22549019607843138
+JPM,JPMorgan Chase,Financials,2020,Cybersecurity & Data Privacy,10,0.09803921568627451
+JPM,JPMorgan Chase,Financials,2020,Supply Chain & Manufacturing,0,0.0
+JPM,JPMorgan Chase,Financials,2020,Competition & Demand,6,0.058823529411764705
+JPM,JPMorgan Chase,Financials,2020,Product & Technology,0,0.0
+JPM,JPMorgan Chase,Financials,2020,International & Geopolitical,8,0.0784313725490196
+JPM,JPMorgan Chase,Financials,2020,People & Key Personnel,1,0.00980392156862745
+JPM,JPMorgan Chase,Financials,2020,Stock & Governance,0,0.0
+JPM,JPMorgan Chase,Financials,2020,Operational & Business Continuity,23,0.22549019607843138
+JPM,JPMorgan Chase,Financials,2020,Climate & ESG,1,0.00980392156862745
+JPM,JPMorgan Chase,Financials,2020,Strategy & M&A,0,0.0
+JPM,JPMorgan Chase,Financials,2021,Macroeconomic & Market,12,0.12121212121212122
+JPM,JPMorgan Chase,Financials,2021,Financial & Credit,16,0.16161616161616163
+JPM,JPMorgan Chase,Financials,2021,Regulatory & Legal,25,0.25252525252525254
+JPM,JPMorgan Chase,Financials,2021,Cybersecurity & Data Privacy,10,0.10101010101010101
+JPM,JPMorgan Chase,Financials,2021,Supply Chain & Manufacturing,0,0.0
+JPM,JPMorgan Chase,Financials,2021,Competition & Demand,6,0.06060606060606061
+JPM,JPMorgan Chase,Financials,2021,Product & Technology,0,0.0
+JPM,JPMorgan Chase,Financials,2021,International & Geopolitical,7,0.0707070707070707
+JPM,JPMorgan Chase,Financials,2021,People & Key Personnel,1,0.010101010101010102
+JPM,JPMorgan Chase,Financials,2021,Stock & Governance,0,0.0
+JPM,JPMorgan Chase,Financials,2021,Operational & Business Continuity,22,0.2222222222222222
+JPM,JPMorgan Chase,Financials,2021,Climate & ESG,0,0.0
+JPM,JPMorgan Chase,Financials,2021,Strategy & M&A,0,0.0
+JPM,JPMorgan Chase,Financials,2022,Macroeconomic & Market,11,0.1111111111111111
+JPM,JPMorgan Chase,Financials,2022,Financial & Credit,15,0.15151515151515152
+JPM,JPMorgan Chase,Financials,2022,Regulatory & Legal,25,0.25252525252525254
+JPM,JPMorgan Chase,Financials,2022,Cybersecurity & Data Privacy,12,0.12121212121212122
+JPM,JPMorgan Chase,Financials,2022,Supply Chain & Manufacturing,0,0.0
+JPM,JPMorgan Chase,Financials,2022,Competition & Demand,5,0.050505050505050504
+JPM,JPMorgan Chase,Financials,2022,Product & Technology,0,0.0
+JPM,JPMorgan Chase,Financials,2022,International & Geopolitical,7,0.0707070707070707
+JPM,JPMorgan Chase,Financials,2022,People & Key Personnel,1,0.010101010101010102
+JPM,JPMorgan Chase,Financials,2022,Stock & Governance,0,0.0
+JPM,JPMorgan Chase,Financials,2022,Operational & Business Continuity,22,0.2222222222222222
+JPM,JPMorgan Chase,Financials,2022,Climate & ESG,1,0.010101010101010102
+JPM,JPMorgan Chase,Financials,2022,Strategy & M&A,0,0.0
+JPM,JPMorgan Chase,Financials,2023,Macroeconomic & Market,9,0.08737864077669903
+JPM,JPMorgan Chase,Financials,2023,Financial & Credit,17,0.1650485436893204
+JPM,JPMorgan Chase,Financials,2023,Regulatory & Legal,26,0.2524271844660194
+JPM,JPMorgan Chase,Financials,2023,Cybersecurity & Data Privacy,15,0.14563106796116504
+JPM,JPMorgan Chase,Financials,2023,Supply Chain & Manufacturing,0,0.0
+JPM,JPMorgan Chase,Financials,2023,Competition & Demand,5,0.04854368932038835
+JPM,JPMorgan Chase,Financials,2023,Product & Technology,0,0.0
+JPM,JPMorgan Chase,Financials,2023,International & Geopolitical,7,0.06796116504854369
+JPM,JPMorgan Chase,Financials,2023,People & Key Personnel,2,0.019417475728155338
+JPM,JPMorgan Chase,Financials,2023,Stock & Governance,0,0.0
+JPM,JPMorgan Chase,Financials,2023,Operational & Business Continuity,21,0.20388349514563106
+JPM,JPMorgan Chase,Financials,2023,Climate & ESG,1,0.009708737864077669
+JPM,JPMorgan Chase,Financials,2023,Strategy & M&A,0,0.0
+JPM,JPMorgan Chase,Financials,2024,Macroeconomic & Market,7,0.06796116504854369
+JPM,JPMorgan Chase,Financials,2024,Financial & Credit,17,0.1650485436893204
+JPM,JPMorgan Chase,Financials,2024,Regulatory & Legal,27,0.2621359223300971
+JPM,JPMorgan Chase,Financials,2024,Cybersecurity & Data Privacy,13,0.1262135922330097
+JPM,JPMorgan Chase,Financials,2024,Supply Chain & Manufacturing,0,0.0
+JPM,JPMorgan Chase,Financials,2024,Competition & Demand,4,0.038834951456310676
+JPM,JPMorgan Chase,Financials,2024,Product & Technology,1,0.009708737864077669
+JPM,JPMorgan Chase,Financials,2024,International & Geopolitical,6,0.05825242718446602
+JPM,JPMorgan Chase,Financials,2024,People & Key Personnel,2,0.019417475728155338
+JPM,JPMorgan Chase,Financials,2024,Stock & Governance,0,0.0
+JPM,JPMorgan Chase,Financials,2024,Operational & Business Continuity,25,0.24271844660194175
+JPM,JPMorgan Chase,Financials,2024,Climate & ESG,1,0.009708737864077669
+JPM,JPMorgan Chase,Financials,2024,Strategy & M&A,0,0.0
+JPM,JPMorgan Chase,Financials,2025,Macroeconomic & Market,6,0.07142857142857142
+JPM,JPMorgan Chase,Financials,2025,Financial & Credit,18,0.21428571428571427
+JPM,JPMorgan Chase,Financials,2025,Regulatory & Legal,20,0.23809523809523808
+JPM,JPMorgan Chase,Financials,2025,Cybersecurity & Data Privacy,8,0.09523809523809523
+JPM,JPMorgan Chase,Financials,2025,Supply Chain & Manufacturing,0,0.0
+JPM,JPMorgan Chase,Financials,2025,Competition & Demand,4,0.047619047619047616
+JPM,JPMorgan Chase,Financials,2025,Product & Technology,0,0.0
+JPM,JPMorgan Chase,Financials,2025,International & Geopolitical,6,0.07142857142857142
+JPM,JPMorgan Chase,Financials,2025,People & Key Personnel,1,0.011904761904761904
+JPM,JPMorgan Chase,Financials,2025,Stock & Governance,0,0.0
+JPM,JPMorgan Chase,Financials,2025,Operational & Business Continuity,21,0.25
+JPM,JPMorgan Chase,Financials,2025,Climate & ESG,0,0.0
+JPM,JPMorgan Chase,Financials,2025,Strategy & M&A,0,0.0
+GS,Goldman Sachs,Financials,2019,Macroeconomic & Market,9,0.10112359550561797
+GS,Goldman Sachs,Financials,2019,Financial & Credit,23,0.25842696629213485
+GS,Goldman Sachs,Financials,2019,Regulatory & Legal,24,0.2696629213483146
+GS,Goldman Sachs,Financials,2019,Cybersecurity & Data Privacy,8,0.0898876404494382
+GS,Goldman Sachs,Financials,2019,Supply Chain & Manufacturing,0,0.0
+GS,Goldman Sachs,Financials,2019,Competition & Demand,3,0.033707865168539325
+GS,Goldman Sachs,Financials,2019,Product & Technology,0,0.0
+GS,Goldman Sachs,Financials,2019,International & Geopolitical,6,0.06741573033707865
+GS,Goldman Sachs,Financials,2019,People & Key Personnel,2,0.02247191011235955
+GS,Goldman Sachs,Financials,2019,Stock & Governance,0,0.0
+GS,Goldman Sachs,Financials,2019,Operational & Business Continuity,5,0.056179775280898875
+GS,Goldman Sachs,Financials,2019,Climate & ESG,3,0.033707865168539325
+GS,Goldman Sachs,Financials,2019,Strategy & M&A,6,0.06741573033707865
+GS,Goldman Sachs,Financials,2020,Macroeconomic & Market,8,0.08
+GS,Goldman Sachs,Financials,2020,Financial & Credit,26,0.26
+GS,Goldman Sachs,Financials,2020,Regulatory & Legal,32,0.32
+GS,Goldman Sachs,Financials,2020,Cybersecurity & Data Privacy,8,0.08
+GS,Goldman Sachs,Financials,2020,Supply Chain & Manufacturing,0,0.0
+GS,Goldman Sachs,Financials,2020,Competition & Demand,3,0.03
+GS,Goldman Sachs,Financials,2020,Product & Technology,0,0.0
+GS,Goldman Sachs,Financials,2020,International & Geopolitical,4,0.04
+GS,Goldman Sachs,Financials,2020,People & Key Personnel,3,0.03
+GS,Goldman Sachs,Financials,2020,Stock & Governance,0,0.0
+GS,Goldman Sachs,Financials,2020,Operational & Business Continuity,8,0.08
+GS,Goldman Sachs,Financials,2020,Climate & ESG,3,0.03
+GS,Goldman Sachs,Financials,2020,Strategy & M&A,5,0.05
+GS,Goldman Sachs,Financials,2021,Macroeconomic & Market,9,0.08571428571428572
+GS,Goldman Sachs,Financials,2021,Financial & Credit,27,0.2571428571428571
+GS,Goldman Sachs,Financials,2021,Regulatory & Legal,32,0.3047619047619048
+GS,Goldman Sachs,Financials,2021,Cybersecurity & Data Privacy,8,0.0761904761904762
+GS,Goldman Sachs,Financials,2021,Supply Chain & Manufacturing,0,0.0
+GS,Goldman Sachs,Financials,2021,Competition & Demand,4,0.0380952380952381
+GS,Goldman Sachs,Financials,2021,Product & Technology,0,0.0
+GS,Goldman Sachs,Financials,2021,International & Geopolitical,2,0.01904761904761905
+GS,Goldman Sachs,Financials,2021,People & Key Personnel,2,0.01904761904761905
+GS,Goldman Sachs,Financials,2021,Stock & Governance,0,0.0
+GS,Goldman Sachs,Financials,2021,Operational & Business Continuity,7,0.06666666666666667
+GS,Goldman Sachs,Financials,2021,Climate & ESG,5,0.047619047619047616
+GS,Goldman Sachs,Financials,2021,Strategy & M&A,9,0.08571428571428572
+GS,Goldman Sachs,Financials,2022,Macroeconomic & Market,13,0.11504424778761062
+GS,Goldman Sachs,Financials,2022,Financial & Credit,24,0.21238938053097345
+GS,Goldman Sachs,Financials,2022,Regulatory & Legal,33,0.2920353982300885
+GS,Goldman Sachs,Financials,2022,Cybersecurity & Data Privacy,11,0.09734513274336283
+GS,Goldman Sachs,Financials,2022,Supply Chain & Manufacturing,0,0.0
+GS,Goldman Sachs,Financials,2022,Competition & Demand,3,0.02654867256637168
+GS,Goldman Sachs,Financials,2022,Product & Technology,0,0.0
+GS,Goldman Sachs,Financials,2022,International & Geopolitical,6,0.05309734513274336
+GS,Goldman Sachs,Financials,2022,People & Key Personnel,3,0.02654867256637168
+GS,Goldman Sachs,Financials,2022,Stock & Governance,0,0.0
+GS,Goldman Sachs,Financials,2022,Operational & Business Continuity,7,0.061946902654867256
+GS,Goldman Sachs,Financials,2022,Climate & ESG,5,0.04424778761061947
+GS,Goldman Sachs,Financials,2022,Strategy & M&A,8,0.07079646017699115
+GS,Goldman Sachs,Financials,2023,Macroeconomic & Market,12,0.10714285714285714
+GS,Goldman Sachs,Financials,2023,Financial & Credit,26,0.23214285714285715
+GS,Goldman Sachs,Financials,2023,Regulatory & Legal,30,0.26785714285714285
+GS,Goldman Sachs,Financials,2023,Cybersecurity & Data Privacy,8,0.07142857142857142
+GS,Goldman Sachs,Financials,2023,Supply Chain & Manufacturing,0,0.0
+GS,Goldman Sachs,Financials,2023,Competition & Demand,3,0.026785714285714284
+GS,Goldman Sachs,Financials,2023,Product & Technology,3,0.026785714285714284
+GS,Goldman Sachs,Financials,2023,International & Geopolitical,6,0.05357142857142857
+GS,Goldman Sachs,Financials,2023,People & Key Personnel,2,0.017857142857142856
+GS,Goldman Sachs,Financials,2023,Stock & Governance,0,0.0
+GS,Goldman Sachs,Financials,2023,Operational & Business Continuity,8,0.07142857142857142
+GS,Goldman Sachs,Financials,2023,Climate & ESG,7,0.0625
+GS,Goldman Sachs,Financials,2023,Strategy & M&A,7,0.0625
+GS,Goldman Sachs,Financials,2024,Macroeconomic & Market,12,0.10434782608695652
+GS,Goldman Sachs,Financials,2024,Financial & Credit,25,0.21739130434782608
+GS,Goldman Sachs,Financials,2024,Regulatory & Legal,33,0.28695652173913044
+GS,Goldman Sachs,Financials,2024,Cybersecurity & Data Privacy,9,0.0782608695652174
+GS,Goldman Sachs,Financials,2024,Supply Chain & Manufacturing,0,0.0
+GS,Goldman Sachs,Financials,2024,Competition & Demand,3,0.02608695652173913
+GS,Goldman Sachs,Financials,2024,Product & Technology,3,0.02608695652173913
+GS,Goldman Sachs,Financials,2024,International & Geopolitical,7,0.06086956521739131
+GS,Goldman Sachs,Financials,2024,People & Key Personnel,3,0.02608695652173913
+GS,Goldman Sachs,Financials,2024,Stock & Governance,0,0.0
+GS,Goldman Sachs,Financials,2024,Operational & Business Continuity,10,0.08695652173913043
+GS,Goldman Sachs,Financials,2024,Climate & ESG,5,0.043478260869565216
+GS,Goldman Sachs,Financials,2024,Strategy & M&A,5,0.043478260869565216
+GS,Goldman Sachs,Financials,2025,Macroeconomic & Market,13,0.11504424778761062
+GS,Goldman Sachs,Financials,2025,Financial & Credit,27,0.23893805309734514
+GS,Goldman Sachs,Financials,2025,Regulatory & Legal,29,0.25663716814159293
+GS,Goldman Sachs,Financials,2025,Cybersecurity & Data Privacy,9,0.07964601769911504
+GS,Goldman Sachs,Financials,2025,Supply Chain & Manufacturing,0,0.0
+GS,Goldman Sachs,Financials,2025,Competition & Demand,4,0.035398230088495575
+GS,Goldman Sachs,Financials,2025,Product & Technology,3,0.02654867256637168
+GS,Goldman Sachs,Financials,2025,International & Geopolitical,6,0.05309734513274336
+GS,Goldman Sachs,Financials,2025,People & Key Personnel,3,0.02654867256637168
+GS,Goldman Sachs,Financials,2025,Stock & Governance,0,0.0
+GS,Goldman Sachs,Financials,2025,Operational & Business Continuity,11,0.09734513274336283
+GS,Goldman Sachs,Financials,2025,Climate & ESG,3,0.02654867256637168
+GS,Goldman Sachs,Financials,2025,Strategy & M&A,5,0.04424778761061947
+V,Visa,Financials,2019,Macroeconomic & Market,1,0.022727272727272728
+V,Visa,Financials,2019,Financial & Credit,2,0.045454545454545456
+V,Visa,Financials,2019,Regulatory & Legal,14,0.3181818181818182
+V,Visa,Financials,2019,Cybersecurity & Data Privacy,6,0.13636363636363635
+V,Visa,Financials,2019,Supply Chain & Manufacturing,0,0.0
+V,Visa,Financials,2019,Competition & Demand,6,0.13636363636363635
+V,Visa,Financials,2019,Product & Technology,0,0.0
+V,Visa,Financials,2019,International & Geopolitical,8,0.18181818181818182
+V,Visa,Financials,2019,People & Key Personnel,1,0.022727272727272728
+V,Visa,Financials,2019,Stock & Governance,4,0.09090909090909091
+V,Visa,Financials,2019,Operational & Business Continuity,1,0.022727272727272728
+V,Visa,Financials,2019,Climate & ESG,0,0.0
+V,Visa,Financials,2019,Strategy & M&A,1,0.022727272727272728
+V,Visa,Financials,2020,Macroeconomic & Market,1,0.019230769230769232
+V,Visa,Financials,2020,Financial & Credit,1,0.019230769230769232
+V,Visa,Financials,2020,Regulatory & Legal,13,0.25
+V,Visa,Financials,2020,Cybersecurity & Data Privacy,6,0.11538461538461539
+V,Visa,Financials,2020,Supply Chain & Manufacturing,0,0.0
+V,Visa,Financials,2020,Competition & Demand,8,0.15384615384615385
+V,Visa,Financials,2020,Product & Technology,1,0.019230769230769232
+V,Visa,Financials,2020,International & Geopolitical,11,0.21153846153846154
+V,Visa,Financials,2020,People & Key Personnel,1,0.019230769230769232
+V,Visa,Financials,2020,Stock & Governance,5,0.09615384615384616
+V,Visa,Financials,2020,Operational & Business Continuity,3,0.057692307692307696
+V,Visa,Financials,2020,Climate & ESG,0,0.0
+V,Visa,Financials,2020,Strategy & M&A,2,0.038461538461538464
+V,Visa,Financials,2021,Macroeconomic & Market,2,0.037037037037037035
+V,Visa,Financials,2021,Financial & Credit,1,0.018518518518518517
+V,Visa,Financials,2021,Regulatory & Legal,17,0.3148148148148148
+V,Visa,Financials,2021,Cybersecurity & Data Privacy,6,0.1111111111111111
+V,Visa,Financials,2021,Supply Chain & Manufacturing,0,0.0
+V,Visa,Financials,2021,Competition & Demand,8,0.14814814814814814
+V,Visa,Financials,2021,Product & Technology,0,0.0
+V,Visa,Financials,2021,International & Geopolitical,9,0.16666666666666666
+V,Visa,Financials,2021,People & Key Personnel,2,0.037037037037037035
+V,Visa,Financials,2021,Stock & Governance,6,0.1111111111111111
+V,Visa,Financials,2021,Operational & Business Continuity,1,0.018518518518518517
+V,Visa,Financials,2021,Climate & ESG,0,0.0
+V,Visa,Financials,2021,Strategy & M&A,2,0.037037037037037035
+V,Visa,Financials,2022,Macroeconomic & Market,1,0.018867924528301886
+V,Visa,Financials,2022,Financial & Credit,1,0.018867924528301886
+V,Visa,Financials,2022,Regulatory & Legal,14,0.2641509433962264
+V,Visa,Financials,2022,Cybersecurity & Data Privacy,6,0.11320754716981132
+V,Visa,Financials,2022,Supply Chain & Manufacturing,0,0.0
+V,Visa,Financials,2022,Competition & Demand,8,0.1509433962264151
+V,Visa,Financials,2022,Product & Technology,1,0.018867924528301886
+V,Visa,Financials,2022,International & Geopolitical,12,0.22641509433962265
+V,Visa,Financials,2022,People & Key Personnel,1,0.018867924528301886
+V,Visa,Financials,2022,Stock & Governance,5,0.09433962264150944
+V,Visa,Financials,2022,Operational & Business Continuity,1,0.018867924528301886
+V,Visa,Financials,2022,Climate & ESG,0,0.0
+V,Visa,Financials,2022,Strategy & M&A,3,0.05660377358490566
+V,Visa,Financials,2023,Macroeconomic & Market,1,0.016666666666666666
+V,Visa,Financials,2023,Financial & Credit,1,0.016666666666666666
+V,Visa,Financials,2023,Regulatory & Legal,17,0.2833333333333333
+V,Visa,Financials,2023,Cybersecurity & Data Privacy,5,0.08333333333333333
+V,Visa,Financials,2023,Supply Chain & Manufacturing,0,0.0
+V,Visa,Financials,2023,Competition & Demand,8,0.13333333333333333
+V,Visa,Financials,2023,Product & Technology,3,0.05
+V,Visa,Financials,2023,International & Geopolitical,12,0.2
+V,Visa,Financials,2023,People & Key Personnel,1,0.016666666666666666
+V,Visa,Financials,2023,Stock & Governance,5,0.08333333333333333
+V,Visa,Financials,2023,Operational & Business Continuity,3,0.05
+V,Visa,Financials,2023,Climate & ESG,1,0.016666666666666666
+V,Visa,Financials,2023,Strategy & M&A,3,0.05
+V,Visa,Financials,2024,Macroeconomic & Market,1,0.015151515151515152
+V,Visa,Financials,2024,Financial & Credit,1,0.015151515151515152
+V,Visa,Financials,2024,Regulatory & Legal,23,0.3484848484848485
+V,Visa,Financials,2024,Cybersecurity & Data Privacy,9,0.13636363636363635
+V,Visa,Financials,2024,Supply Chain & Manufacturing,0,0.0
+V,Visa,Financials,2024,Competition & Demand,9,0.13636363636363635
+V,Visa,Financials,2024,Product & Technology,3,0.045454545454545456
+V,Visa,Financials,2024,International & Geopolitical,8,0.12121212121212122
+V,Visa,Financials,2024,People & Key Personnel,1,0.015151515151515152
+V,Visa,Financials,2024,Stock & Governance,5,0.07575757575757576
+V,Visa,Financials,2024,Operational & Business Continuity,1,0.015151515151515152
+V,Visa,Financials,2024,Climate & ESG,2,0.030303030303030304
+V,Visa,Financials,2024,Strategy & M&A,3,0.045454545454545456
+V,Visa,Financials,2025,Macroeconomic & Market,0,0.0
+V,Visa,Financials,2025,Financial & Credit,1,0.015384615384615385
+V,Visa,Financials,2025,Regulatory & Legal,21,0.3230769230769231
+V,Visa,Financials,2025,Cybersecurity & Data Privacy,9,0.13846153846153847
+V,Visa,Financials,2025,Supply Chain & Manufacturing,0,0.0
+V,Visa,Financials,2025,Competition & Demand,9,0.13846153846153847
+V,Visa,Financials,2025,Product & Technology,3,0.046153846153846156
+V,Visa,Financials,2025,International & Geopolitical,13,0.2
+V,Visa,Financials,2025,People & Key Personnel,1,0.015384615384615385
+V,Visa,Financials,2025,Stock & Governance,4,0.06153846153846154
+V,Visa,Financials,2025,Operational & Business Continuity,1,0.015384615384615385
+V,Visa,Financials,2025,Climate & ESG,1,0.015384615384615385
+V,Visa,Financials,2025,Strategy & M&A,2,0.03076923076923077
+V,Visa,Financials,2026,Macroeconomic & Market,1,0.018867924528301886
+V,Visa,Financials,2026,Financial & Credit,2,0.03773584905660377
+V,Visa,Financials,2026,Regulatory & Legal,12,0.22641509433962265
+V,Visa,Financials,2026,Cybersecurity & Data Privacy,12,0.22641509433962265
+V,Visa,Financials,2026,Supply Chain & Manufacturing,0,0.0
+V,Visa,Financials,2026,Competition & Demand,8,0.1509433962264151
+V,Visa,Financials,2026,Product & Technology,2,0.03773584905660377
+V,Visa,Financials,2026,International & Geopolitical,5,0.09433962264150944
+V,Visa,Financials,2026,People & Key Personnel,2,0.03773584905660377
+V,Visa,Financials,2026,Stock & Governance,5,0.09433962264150944
+V,Visa,Financials,2026,Operational & Business Continuity,2,0.03773584905660377
+V,Visa,Financials,2026,Climate & ESG,1,0.018867924528301886
+V,Visa,Financials,2026,Strategy & M&A,1,0.018867924528301886
+PFE,Pfizer,Health Care,2019,Macroeconomic & Market,0,0.0
+PFE,Pfizer,Health Care,2019,Financial & Credit,7,0.1
+PFE,Pfizer,Health Care,2019,Regulatory & Legal,26,0.37142857142857144
+PFE,Pfizer,Health Care,2019,Cybersecurity & Data Privacy,2,0.02857142857142857
+PFE,Pfizer,Health Care,2019,Supply Chain & Manufacturing,1,0.014285714285714285
+PFE,Pfizer,Health Care,2019,Competition & Demand,1,0.014285714285714285
+PFE,Pfizer,Health Care,2019,Product & Technology,17,0.24285714285714285
+PFE,Pfizer,Health Care,2019,International & Geopolitical,3,0.04285714285714286
+PFE,Pfizer,Health Care,2019,People & Key Personnel,0,0.0
+PFE,Pfizer,Health Care,2019,Stock & Governance,0,0.0
+PFE,Pfizer,Health Care,2019,Operational & Business Continuity,2,0.02857142857142857
+PFE,Pfizer,Health Care,2019,Climate & ESG,0,0.0
+PFE,Pfizer,Health Care,2019,Strategy & M&A,11,0.15714285714285714
+PFE,Pfizer,Health Care,2020,Macroeconomic & Market,0,0.0
+PFE,Pfizer,Health Care,2020,Financial & Credit,4,0.08333333333333333
+PFE,Pfizer,Health Care,2020,Regulatory & Legal,10,0.20833333333333334
+PFE,Pfizer,Health Care,2020,Cybersecurity & Data Privacy,2,0.041666666666666664
+PFE,Pfizer,Health Care,2020,Supply Chain & Manufacturing,1,0.020833333333333332
+PFE,Pfizer,Health Care,2020,Competition & Demand,0,0.0
+PFE,Pfizer,Health Care,2020,Product & Technology,19,0.3958333333333333
+PFE,Pfizer,Health Care,2020,International & Geopolitical,2,0.041666666666666664
+PFE,Pfizer,Health Care,2020,People & Key Personnel,0,0.0
+PFE,Pfizer,Health Care,2020,Stock & Governance,0,0.0
+PFE,Pfizer,Health Care,2020,Operational & Business Continuity,4,0.08333333333333333
+PFE,Pfizer,Health Care,2020,Climate & ESG,0,0.0
+PFE,Pfizer,Health Care,2020,Strategy & M&A,6,0.125
+PFE,Pfizer,Health Care,2021,Macroeconomic & Market,0,0.0
+PFE,Pfizer,Health Care,2021,Financial & Credit,2,0.03571428571428571
+PFE,Pfizer,Health Care,2021,Regulatory & Legal,17,0.30357142857142855
+PFE,Pfizer,Health Care,2021,Cybersecurity & Data Privacy,3,0.05357142857142857
+PFE,Pfizer,Health Care,2021,Supply Chain & Manufacturing,1,0.017857142857142856
+PFE,Pfizer,Health Care,2021,Competition & Demand,2,0.03571428571428571
+PFE,Pfizer,Health Care,2021,Product & Technology,22,0.39285714285714285
+PFE,Pfizer,Health Care,2021,International & Geopolitical,2,0.03571428571428571
+PFE,Pfizer,Health Care,2021,People & Key Personnel,0,0.0
+PFE,Pfizer,Health Care,2021,Stock & Governance,0,0.0
+PFE,Pfizer,Health Care,2021,Operational & Business Continuity,4,0.07142857142857142
+PFE,Pfizer,Health Care,2021,Climate & ESG,0,0.0
+PFE,Pfizer,Health Care,2021,Strategy & M&A,3,0.05357142857142857
+PFE,Pfizer,Health Care,2022,Macroeconomic & Market,0,0.0
+PFE,Pfizer,Health Care,2022,Financial & Credit,2,0.03389830508474576
+PFE,Pfizer,Health Care,2022,Regulatory & Legal,17,0.288135593220339
+PFE,Pfizer,Health Care,2022,Cybersecurity & Data Privacy,3,0.05084745762711865
+PFE,Pfizer,Health Care,2022,Supply Chain & Manufacturing,3,0.05084745762711865
+PFE,Pfizer,Health Care,2022,Competition & Demand,3,0.05084745762711865
+PFE,Pfizer,Health Care,2022,Product & Technology,19,0.3220338983050847
+PFE,Pfizer,Health Care,2022,International & Geopolitical,3,0.05084745762711865
+PFE,Pfizer,Health Care,2022,People & Key Personnel,0,0.0
+PFE,Pfizer,Health Care,2022,Stock & Governance,0,0.0
+PFE,Pfizer,Health Care,2022,Operational & Business Continuity,2,0.03389830508474576
+PFE,Pfizer,Health Care,2022,Climate & ESG,3,0.05084745762711865
+PFE,Pfizer,Health Care,2022,Strategy & M&A,4,0.06779661016949153
+PFE,Pfizer,Health Care,2023,Macroeconomic & Market,0,0.0
+PFE,Pfizer,Health Care,2023,Financial & Credit,1,0.016129032258064516
+PFE,Pfizer,Health Care,2023,Regulatory & Legal,19,0.3064516129032258
+PFE,Pfizer,Health Care,2023,Cybersecurity & Data Privacy,3,0.04838709677419355
+PFE,Pfizer,Health Care,2023,Supply Chain & Manufacturing,2,0.03225806451612903
+PFE,Pfizer,Health Care,2023,Competition & Demand,2,0.03225806451612903
+PFE,Pfizer,Health Care,2023,Product & Technology,20,0.3225806451612903
+PFE,Pfizer,Health Care,2023,International & Geopolitical,3,0.04838709677419355
+PFE,Pfizer,Health Care,2023,People & Key Personnel,0,0.0
+PFE,Pfizer,Health Care,2023,Stock & Governance,0,0.0
+PFE,Pfizer,Health Care,2023,Operational & Business Continuity,3,0.04838709677419355
+PFE,Pfizer,Health Care,2023,Climate & ESG,2,0.03225806451612903
+PFE,Pfizer,Health Care,2023,Strategy & M&A,7,0.11290322580645161
+PFE,Pfizer,Health Care,2024,Macroeconomic & Market,0,0.0
+PFE,Pfizer,Health Care,2024,Financial & Credit,3,0.04918032786885246
+PFE,Pfizer,Health Care,2024,Regulatory & Legal,21,0.3442622950819672
+PFE,Pfizer,Health Care,2024,Cybersecurity & Data Privacy,3,0.04918032786885246
+PFE,Pfizer,Health Care,2024,Supply Chain & Manufacturing,1,0.01639344262295082
+PFE,Pfizer,Health Care,2024,Competition & Demand,3,0.04918032786885246
+PFE,Pfizer,Health Care,2024,Product & Technology,18,0.29508196721311475
+PFE,Pfizer,Health Care,2024,International & Geopolitical,3,0.04918032786885246
+PFE,Pfizer,Health Care,2024,People & Key Personnel,0,0.0
+PFE,Pfizer,Health Care,2024,Stock & Governance,0,0.0
+PFE,Pfizer,Health Care,2024,Operational & Business Continuity,2,0.03278688524590164
+PFE,Pfizer,Health Care,2024,Climate & ESG,2,0.03278688524590164
+PFE,Pfizer,Health Care,2024,Strategy & M&A,5,0.08196721311475409
+PFE,Pfizer,Health Care,2025,Macroeconomic & Market,0,0.0
+PFE,Pfizer,Health Care,2025,Financial & Credit,3,0.04477611940298507
+PFE,Pfizer,Health Care,2025,Regulatory & Legal,25,0.373134328358209
+PFE,Pfizer,Health Care,2025,Cybersecurity & Data Privacy,3,0.04477611940298507
+PFE,Pfizer,Health Care,2025,Supply Chain & Manufacturing,1,0.014925373134328358
+PFE,Pfizer,Health Care,2025,Competition & Demand,4,0.05970149253731343
+PFE,Pfizer,Health Care,2025,Product & Technology,19,0.2835820895522388
+PFE,Pfizer,Health Care,2025,International & Geopolitical,4,0.05970149253731343
+PFE,Pfizer,Health Care,2025,People & Key Personnel,0,0.0
+PFE,Pfizer,Health Care,2025,Stock & Governance,0,0.0
+PFE,Pfizer,Health Care,2025,Operational & Business Continuity,2,0.029850746268656716
+PFE,Pfizer,Health Care,2025,Climate & ESG,1,0.014925373134328358
+PFE,Pfizer,Health Care,2025,Strategy & M&A,5,0.07462686567164178
+JNJ,Johnson & Johnson,Health Care,2019,Macroeconomic & Market,0,0.0
+JNJ,Johnson & Johnson,Health Care,2019,Financial & Credit,0,0.0
+JNJ,Johnson & Johnson,Health Care,2019,Regulatory & Legal,8,0.38095238095238093
+JNJ,Johnson & Johnson,Health Care,2019,Cybersecurity & Data Privacy,2,0.09523809523809523
+JNJ,Johnson & Johnson,Health Care,2019,Supply Chain & Manufacturing,2,0.09523809523809523
+JNJ,Johnson & Johnson,Health Care,2019,Competition & Demand,1,0.047619047619047616
+JNJ,Johnson & Johnson,Health Care,2019,Product & Technology,6,0.2857142857142857
+JNJ,Johnson & Johnson,Health Care,2019,International & Geopolitical,2,0.09523809523809523
+JNJ,Johnson & Johnson,Health Care,2019,People & Key Personnel,0,0.0
+JNJ,Johnson & Johnson,Health Care,2019,Stock & Governance,0,0.0
+JNJ,Johnson & Johnson,Health Care,2019,Operational & Business Continuity,0,0.0
+JNJ,Johnson & Johnson,Health Care,2019,Climate & ESG,0,0.0
+JNJ,Johnson & Johnson,Health Care,2019,Strategy & M&A,0,0.0
+JNJ,Johnson & Johnson,Health Care,2020,Macroeconomic & Market,0,0.0
+JNJ,Johnson & Johnson,Health Care,2020,Financial & Credit,0,0.0
+JNJ,Johnson & Johnson,Health Care,2020,Regulatory & Legal,8,0.3333333333333333
+JNJ,Johnson & Johnson,Health Care,2020,Cybersecurity & Data Privacy,1,0.041666666666666664
+JNJ,Johnson & Johnson,Health Care,2020,Supply Chain & Manufacturing,2,0.08333333333333333
+JNJ,Johnson & Johnson,Health Care,2020,Competition & Demand,0,0.0
+JNJ,Johnson & Johnson,Health Care,2020,Product & Technology,6,0.25
+JNJ,Johnson & Johnson,Health Care,2020,International & Geopolitical,3,0.125
+JNJ,Johnson & Johnson,Health Care,2020,People & Key Personnel,1,0.041666666666666664
+JNJ,Johnson & Johnson,Health Care,2020,Stock & Governance,0,0.0
+JNJ,Johnson & Johnson,Health Care,2020,Operational & Business Continuity,1,0.041666666666666664
+JNJ,Johnson & Johnson,Health Care,2020,Climate & ESG,2,0.08333333333333333
+JNJ,Johnson & Johnson,Health Care,2020,Strategy & M&A,0,0.0
+JNJ,Johnson & Johnson,Health Care,2021,Macroeconomic & Market,0,0.0
+JNJ,Johnson & Johnson,Health Care,2021,Financial & Credit,1,0.034482758620689655
+JNJ,Johnson & Johnson,Health Care,2021,Regulatory & Legal,10,0.3448275862068966
+JNJ,Johnson & Johnson,Health Care,2021,Cybersecurity & Data Privacy,3,0.10344827586206896
+JNJ,Johnson & Johnson,Health Care,2021,Supply Chain & Manufacturing,3,0.10344827586206896
+JNJ,Johnson & Johnson,Health Care,2021,Competition & Demand,0,0.0
+JNJ,Johnson & Johnson,Health Care,2021,Product & Technology,6,0.20689655172413793
+JNJ,Johnson & Johnson,Health Care,2021,International & Geopolitical,1,0.034482758620689655
+JNJ,Johnson & Johnson,Health Care,2021,People & Key Personnel,1,0.034482758620689655
+JNJ,Johnson & Johnson,Health Care,2021,Stock & Governance,0,0.0
+JNJ,Johnson & Johnson,Health Care,2021,Operational & Business Continuity,1,0.034482758620689655
+JNJ,Johnson & Johnson,Health Care,2021,Climate & ESG,1,0.034482758620689655
+JNJ,Johnson & Johnson,Health Care,2021,Strategy & M&A,2,0.06896551724137931
+JNJ,Johnson & Johnson,Health Care,2022,Macroeconomic & Market,0,0.0
+JNJ,Johnson & Johnson,Health Care,2022,Financial & Credit,1,0.030303030303030304
+JNJ,Johnson & Johnson,Health Care,2022,Regulatory & Legal,10,0.30303030303030304
+JNJ,Johnson & Johnson,Health Care,2022,Cybersecurity & Data Privacy,3,0.09090909090909091
+JNJ,Johnson & Johnson,Health Care,2022,Supply Chain & Manufacturing,2,0.06060606060606061
+JNJ,Johnson & Johnson,Health Care,2022,Competition & Demand,0,0.0
+JNJ,Johnson & Johnson,Health Care,2022,Product & Technology,7,0.21212121212121213
+JNJ,Johnson & Johnson,Health Care,2022,International & Geopolitical,5,0.15151515151515152
+JNJ,Johnson & Johnson,Health Care,2022,People & Key Personnel,1,0.030303030303030304
+JNJ,Johnson & Johnson,Health Care,2022,Stock & Governance,0,0.0
+JNJ,Johnson & Johnson,Health Care,2022,Operational & Business Continuity,1,0.030303030303030304
+JNJ,Johnson & Johnson,Health Care,2022,Climate & ESG,1,0.030303030303030304
+JNJ,Johnson & Johnson,Health Care,2022,Strategy & M&A,2,0.06060606060606061
+JNJ,Johnson & Johnson,Health Care,2023,Macroeconomic & Market,0,0.0
+JNJ,Johnson & Johnson,Health Care,2023,Financial & Credit,1,0.03125
+JNJ,Johnson & Johnson,Health Care,2023,Regulatory & Legal,11,0.34375
+JNJ,Johnson & Johnson,Health Care,2023,Cybersecurity & Data Privacy,3,0.09375
+JNJ,Johnson & Johnson,Health Care,2023,Supply Chain & Manufacturing,1,0.03125
+JNJ,Johnson & Johnson,Health Care,2023,Competition & Demand,0,0.0
+JNJ,Johnson & Johnson,Health Care,2023,Product & Technology,7,0.21875
+JNJ,Johnson & Johnson,Health Care,2023,International & Geopolitical,4,0.125
+JNJ,Johnson & Johnson,Health Care,2023,People & Key Personnel,1,0.03125
+JNJ,Johnson & Johnson,Health Care,2023,Stock & Governance,0,0.0
+JNJ,Johnson & Johnson,Health Care,2023,Operational & Business Continuity,1,0.03125
+JNJ,Johnson & Johnson,Health Care,2023,Climate & ESG,1,0.03125
+JNJ,Johnson & Johnson,Health Care,2023,Strategy & M&A,2,0.0625
+JNJ,Johnson & Johnson,Health Care,2024,Macroeconomic & Market,0,0.0
+JNJ,Johnson & Johnson,Health Care,2024,Financial & Credit,0,0.0
+JNJ,Johnson & Johnson,Health Care,2024,Regulatory & Legal,10,0.3225806451612903
+JNJ,Johnson & Johnson,Health Care,2024,Cybersecurity & Data Privacy,3,0.0967741935483871
+JNJ,Johnson & Johnson,Health Care,2024,Supply Chain & Manufacturing,1,0.03225806451612903
+JNJ,Johnson & Johnson,Health Care,2024,Competition & Demand,0,0.0
+JNJ,Johnson & Johnson,Health Care,2024,Product & Technology,9,0.2903225806451613
+JNJ,Johnson & Johnson,Health Care,2024,International & Geopolitical,5,0.16129032258064516
+JNJ,Johnson & Johnson,Health Care,2024,People & Key Personnel,1,0.03225806451612903
+JNJ,Johnson & Johnson,Health Care,2024,Stock & Governance,0,0.0
+JNJ,Johnson & Johnson,Health Care,2024,Operational & Business Continuity,0,0.0
+JNJ,Johnson & Johnson,Health Care,2024,Climate & ESG,1,0.03225806451612903
+JNJ,Johnson & Johnson,Health Care,2024,Strategy & M&A,1,0.03225806451612903
+JNJ,Johnson & Johnson,Health Care,2025,Macroeconomic & Market,0,0.0
+JNJ,Johnson & Johnson,Health Care,2025,Financial & Credit,0,0.0
+JNJ,Johnson & Johnson,Health Care,2025,Regulatory & Legal,10,0.3125
+JNJ,Johnson & Johnson,Health Care,2025,Cybersecurity & Data Privacy,3,0.09375
+JNJ,Johnson & Johnson,Health Care,2025,Supply Chain & Manufacturing,1,0.03125
+JNJ,Johnson & Johnson,Health Care,2025,Competition & Demand,0,0.0
+JNJ,Johnson & Johnson,Health Care,2025,Product & Technology,8,0.25
+JNJ,Johnson & Johnson,Health Care,2025,International & Geopolitical,5,0.15625
+JNJ,Johnson & Johnson,Health Care,2025,People & Key Personnel,1,0.03125
+JNJ,Johnson & Johnson,Health Care,2025,Stock & Governance,0,0.0
+JNJ,Johnson & Johnson,Health Care,2025,Operational & Business Continuity,0,0.0
+JNJ,Johnson & Johnson,Health Care,2025,Climate & ESG,1,0.03125
+JNJ,Johnson & Johnson,Health Care,2025,Strategy & M&A,3,0.09375
+UNH,UnitedHealth,Health Care,2019,Macroeconomic & Market,2,0.043478260869565216
+UNH,UnitedHealth,Health Care,2019,Financial & Credit,5,0.10869565217391304
+UNH,UnitedHealth,Health Care,2019,Regulatory & Legal,18,0.391304347826087
+UNH,UnitedHealth,Health Care,2019,Cybersecurity & Data Privacy,8,0.17391304347826086
+UNH,UnitedHealth,Health Care,2019,Supply Chain & Manufacturing,0,0.0
+UNH,UnitedHealth,Health Care,2019,Competition & Demand,8,0.17391304347826086
+UNH,UnitedHealth,Health Care,2019,Product & Technology,0,0.0
+UNH,UnitedHealth,Health Care,2019,International & Geopolitical,1,0.021739130434782608
+UNH,UnitedHealth,Health Care,2019,People & Key Personnel,0,0.0
+UNH,UnitedHealth,Health Care,2019,Stock & Governance,0,0.0
+UNH,UnitedHealth,Health Care,2019,Operational & Business Continuity,2,0.043478260869565216
+UNH,UnitedHealth,Health Care,2019,Climate & ESG,0,0.0
+UNH,UnitedHealth,Health Care,2019,Strategy & M&A,2,0.043478260869565216
+UNH,UnitedHealth,Health Care,2020,Macroeconomic & Market,1,0.0196078431372549
+UNH,UnitedHealth,Health Care,2020,Financial & Credit,7,0.13725490196078433
+UNH,UnitedHealth,Health Care,2020,Regulatory & Legal,19,0.37254901960784315
+UNH,UnitedHealth,Health Care,2020,Cybersecurity & Data Privacy,7,0.13725490196078433
+UNH,UnitedHealth,Health Care,2020,Supply Chain & Manufacturing,0,0.0
+UNH,UnitedHealth,Health Care,2020,Competition & Demand,5,0.09803921568627451
+UNH,UnitedHealth,Health Care,2020,Product & Technology,1,0.0196078431372549
+UNH,UnitedHealth,Health Care,2020,International & Geopolitical,2,0.0392156862745098
+UNH,UnitedHealth,Health Care,2020,People & Key Personnel,2,0.0392156862745098
+UNH,UnitedHealth,Health Care,2020,Stock & Governance,0,0.0
+UNH,UnitedHealth,Health Care,2020,Operational & Business Continuity,4,0.0784313725490196
+UNH,UnitedHealth,Health Care,2020,Climate & ESG,0,0.0
+UNH,UnitedHealth,Health Care,2020,Strategy & M&A,3,0.058823529411764705
+UNH,UnitedHealth,Health Care,2021,Macroeconomic & Market,2,0.038461538461538464
+UNH,UnitedHealth,Health Care,2021,Financial & Credit,7,0.1346153846153846
+UNH,UnitedHealth,Health Care,2021,Regulatory & Legal,18,0.34615384615384615
+UNH,UnitedHealth,Health Care,2021,Cybersecurity & Data Privacy,5,0.09615384615384616
+UNH,UnitedHealth,Health Care,2021,Supply Chain & Manufacturing,0,0.0
+UNH,UnitedHealth,Health Care,2021,Competition & Demand,7,0.1346153846153846
+UNH,UnitedHealth,Health Care,2021,Product & Technology,0,0.0
+UNH,UnitedHealth,Health Care,2021,International & Geopolitical,3,0.057692307692307696
+UNH,UnitedHealth,Health Care,2021,People & Key Personnel,1,0.019230769230769232
+UNH,UnitedHealth,Health Care,2021,Stock & Governance,0,0.0
+UNH,UnitedHealth,Health Care,2021,Operational & Business Continuity,6,0.11538461538461539
+UNH,UnitedHealth,Health Care,2021,Climate & ESG,0,0.0
+UNH,UnitedHealth,Health Care,2021,Strategy & M&A,3,0.057692307692307696
+UNH,UnitedHealth,Health Care,2022,Macroeconomic & Market,3,0.06
+UNH,UnitedHealth,Health Care,2022,Financial & Credit,5,0.1
+UNH,UnitedHealth,Health Care,2022,Regulatory & Legal,19,0.38
+UNH,UnitedHealth,Health Care,2022,Cybersecurity & Data Privacy,6,0.12
+UNH,UnitedHealth,Health Care,2022,Supply Chain & Manufacturing,0,0.0
+UNH,UnitedHealth,Health Care,2022,Competition & Demand,6,0.12
+UNH,UnitedHealth,Health Care,2022,Product & Technology,0,0.0
+UNH,UnitedHealth,Health Care,2022,International & Geopolitical,3,0.06
+UNH,UnitedHealth,Health Care,2022,People & Key Personnel,1,0.02
+UNH,UnitedHealth,Health Care,2022,Stock & Governance,0,0.0
+UNH,UnitedHealth,Health Care,2022,Operational & Business Continuity,4,0.08
+UNH,UnitedHealth,Health Care,2022,Climate & ESG,0,0.0
+UNH,UnitedHealth,Health Care,2022,Strategy & M&A,3,0.06
+UNH,UnitedHealth,Health Care,2023,Macroeconomic & Market,2,0.04
+UNH,UnitedHealth,Health Care,2023,Financial & Credit,6,0.12
+UNH,UnitedHealth,Health Care,2023,Regulatory & Legal,19,0.38
+UNH,UnitedHealth,Health Care,2023,Cybersecurity & Data Privacy,6,0.12
+UNH,UnitedHealth,Health Care,2023,Supply Chain & Manufacturing,0,0.0
+UNH,UnitedHealth,Health Care,2023,Competition & Demand,7,0.14
+UNH,UnitedHealth,Health Care,2023,Product & Technology,1,0.02
+UNH,UnitedHealth,Health Care,2023,International & Geopolitical,2,0.04
+UNH,UnitedHealth,Health Care,2023,People & Key Personnel,1,0.02
+UNH,UnitedHealth,Health Care,2023,Stock & Governance,0,0.0
+UNH,UnitedHealth,Health Care,2023,Operational & Business Continuity,4,0.08
+UNH,UnitedHealth,Health Care,2023,Climate & ESG,0,0.0
+UNH,UnitedHealth,Health Care,2023,Strategy & M&A,2,0.04
+UNH,UnitedHealth,Health Care,2024,Macroeconomic & Market,2,0.04
+UNH,UnitedHealth,Health Care,2024,Financial & Credit,7,0.14
+UNH,UnitedHealth,Health Care,2024,Regulatory & Legal,19,0.38
+UNH,UnitedHealth,Health Care,2024,Cybersecurity & Data Privacy,5,0.1
+UNH,UnitedHealth,Health Care,2024,Supply Chain & Manufacturing,0,0.0
+UNH,UnitedHealth,Health Care,2024,Competition & Demand,7,0.14
+UNH,UnitedHealth,Health Care,2024,Product & Technology,2,0.04
+UNH,UnitedHealth,Health Care,2024,International & Geopolitical,1,0.02
+UNH,UnitedHealth,Health Care,2024,People & Key Personnel,1,0.02
+UNH,UnitedHealth,Health Care,2024,Stock & Governance,0,0.0
+UNH,UnitedHealth,Health Care,2024,Operational & Business Continuity,2,0.04
+UNH,UnitedHealth,Health Care,2024,Climate & ESG,0,0.0
+UNH,UnitedHealth,Health Care,2024,Strategy & M&A,4,0.08
+UNH,UnitedHealth,Health Care,2025,Macroeconomic & Market,1,0.02
+UNH,UnitedHealth,Health Care,2025,Financial & Credit,5,0.1
+UNH,UnitedHealth,Health Care,2025,Regulatory & Legal,19,0.38
+UNH,UnitedHealth,Health Care,2025,Cybersecurity & Data Privacy,6,0.12
+UNH,UnitedHealth,Health Care,2025,Supply Chain & Manufacturing,0,0.0
+UNH,UnitedHealth,Health Care,2025,Competition & Demand,7,0.14
+UNH,UnitedHealth,Health Care,2025,Product & Technology,2,0.04
+UNH,UnitedHealth,Health Care,2025,International & Geopolitical,1,0.02
+UNH,UnitedHealth,Health Care,2025,People & Key Personnel,2,0.04
+UNH,UnitedHealth,Health Care,2025,Stock & Governance,0,0.0
+UNH,UnitedHealth,Health Care,2025,Operational & Business Continuity,3,0.06
+UNH,UnitedHealth,Health Care,2025,Climate & ESG,0,0.0
+UNH,UnitedHealth,Health Care,2025,Strategy & M&A,4,0.08
+XOM,ExxonMobil,Energy,2019,Macroeconomic & Market,3,0.2
+XOM,ExxonMobil,Energy,2019,Financial & Credit,0,0.0
+XOM,ExxonMobil,Energy,2019,Regulatory & Legal,1,0.06666666666666667
+XOM,ExxonMobil,Energy,2019,Cybersecurity & Data Privacy,1,0.06666666666666667
+XOM,ExxonMobil,Energy,2019,Supply Chain & Manufacturing,0,0.0
+XOM,ExxonMobil,Energy,2019,Competition & Demand,1,0.06666666666666667
+XOM,ExxonMobil,Energy,2019,Product & Technology,0,0.0
+XOM,ExxonMobil,Energy,2019,International & Geopolitical,2,0.13333333333333333
+XOM,ExxonMobil,Energy,2019,People & Key Personnel,0,0.0
+XOM,ExxonMobil,Energy,2019,Stock & Governance,0,0.0
+XOM,ExxonMobil,Energy,2019,Operational & Business Continuity,2,0.13333333333333333
+XOM,ExxonMobil,Energy,2019,Climate & ESG,2,0.13333333333333333
+XOM,ExxonMobil,Energy,2019,Strategy & M&A,3,0.2
+XOM,ExxonMobil,Energy,2020,Macroeconomic & Market,2,0.11764705882352941
+XOM,ExxonMobil,Energy,2020,Financial & Credit,0,0.0
+XOM,ExxonMobil,Energy,2020,Regulatory & Legal,2,0.11764705882352941
+XOM,ExxonMobil,Energy,2020,Cybersecurity & Data Privacy,1,0.058823529411764705
+XOM,ExxonMobil,Energy,2020,Supply Chain & Manufacturing,1,0.058823529411764705
+XOM,ExxonMobil,Energy,2020,Competition & Demand,2,0.11764705882352941
+XOM,ExxonMobil,Energy,2020,Product & Technology,0,0.0
+XOM,ExxonMobil,Energy,2020,International & Geopolitical,2,0.11764705882352941
+XOM,ExxonMobil,Energy,2020,People & Key Personnel,0,0.0
+XOM,ExxonMobil,Energy,2020,Stock & Governance,0,0.0
+XOM,ExxonMobil,Energy,2020,Operational & Business Continuity,2,0.11764705882352941
+XOM,ExxonMobil,Energy,2020,Climate & ESG,2,0.11764705882352941
+XOM,ExxonMobil,Energy,2020,Strategy & M&A,3,0.17647058823529413
+XOM,ExxonMobil,Energy,2021,Macroeconomic & Market,2,0.09523809523809523
+XOM,ExxonMobil,Energy,2021,Financial & Credit,1,0.047619047619047616
+XOM,ExxonMobil,Energy,2021,Regulatory & Legal,2,0.09523809523809523
+XOM,ExxonMobil,Energy,2021,Cybersecurity & Data Privacy,2,0.09523809523809523
+XOM,ExxonMobil,Energy,2021,Supply Chain & Manufacturing,1,0.047619047619047616
+XOM,ExxonMobil,Energy,2021,Competition & Demand,2,0.09523809523809523
+XOM,ExxonMobil,Energy,2021,Product & Technology,0,0.0
+XOM,ExxonMobil,Energy,2021,International & Geopolitical,2,0.09523809523809523
+XOM,ExxonMobil,Energy,2021,People & Key Personnel,0,0.0
+XOM,ExxonMobil,Energy,2021,Stock & Governance,0,0.0
+XOM,ExxonMobil,Energy,2021,Operational & Business Continuity,1,0.047619047619047616
+XOM,ExxonMobil,Energy,2021,Climate & ESG,5,0.23809523809523808
+XOM,ExxonMobil,Energy,2021,Strategy & M&A,3,0.14285714285714285
+XOM,ExxonMobil,Energy,2022,Macroeconomic & Market,3,0.13636363636363635
+XOM,ExxonMobil,Energy,2022,Financial & Credit,1,0.045454545454545456
+XOM,ExxonMobil,Energy,2022,Regulatory & Legal,2,0.09090909090909091
+XOM,ExxonMobil,Energy,2022,Cybersecurity & Data Privacy,2,0.09090909090909091
+XOM,ExxonMobil,Energy,2022,Supply Chain & Manufacturing,1,0.045454545454545456
+XOM,ExxonMobil,Energy,2022,Competition & Demand,2,0.09090909090909091
+XOM,ExxonMobil,Energy,2022,Product & Technology,0,0.0
+XOM,ExxonMobil,Energy,2022,International & Geopolitical,2,0.09090909090909091
+XOM,ExxonMobil,Energy,2022,People & Key Personnel,0,0.0
+XOM,ExxonMobil,Energy,2022,Stock & Governance,0,0.0
+XOM,ExxonMobil,Energy,2022,Operational & Business Continuity,1,0.045454545454545456
+XOM,ExxonMobil,Energy,2022,Climate & ESG,5,0.22727272727272727
+XOM,ExxonMobil,Energy,2022,Strategy & M&A,3,0.13636363636363635
+XOM,ExxonMobil,Energy,2023,Macroeconomic & Market,4,0.16666666666666666
+XOM,ExxonMobil,Energy,2023,Financial & Credit,0,0.0
+XOM,ExxonMobil,Energy,2023,Regulatory & Legal,2,0.08333333333333333
+XOM,ExxonMobil,Energy,2023,Cybersecurity & Data Privacy,2,0.08333333333333333
+XOM,ExxonMobil,Energy,2023,Supply Chain & Manufacturing,1,0.041666666666666664
+XOM,ExxonMobil,Energy,2023,Competition & Demand,2,0.08333333333333333
+XOM,ExxonMobil,Energy,2023,Product & Technology,0,0.0
+XOM,ExxonMobil,Energy,2023,International & Geopolitical,2,0.08333333333333333
+XOM,ExxonMobil,Energy,2023,People & Key Personnel,0,0.0
+XOM,ExxonMobil,Energy,2023,Stock & Governance,0,0.0
+XOM,ExxonMobil,Energy,2023,Operational & Business Continuity,2,0.08333333333333333
+XOM,ExxonMobil,Energy,2023,Climate & ESG,6,0.25
+XOM,ExxonMobil,Energy,2023,Strategy & M&A,3,0.125
+XOM,ExxonMobil,Energy,2024,Macroeconomic & Market,5,0.19230769230769232
+XOM,ExxonMobil,Energy,2024,Financial & Credit,1,0.038461538461538464
+XOM,ExxonMobil,Energy,2024,Regulatory & Legal,3,0.11538461538461539
+XOM,ExxonMobil,Energy,2024,Cybersecurity & Data Privacy,1,0.038461538461538464
+XOM,ExxonMobil,Energy,2024,Supply Chain & Manufacturing,1,0.038461538461538464
+XOM,ExxonMobil,Energy,2024,Competition & Demand,3,0.11538461538461539
+XOM,ExxonMobil,Energy,2024,Product & Technology,0,0.0
+XOM,ExxonMobil,Energy,2024,International & Geopolitical,2,0.07692307692307693
+XOM,ExxonMobil,Energy,2024,People & Key Personnel,0,0.0
+XOM,ExxonMobil,Energy,2024,Stock & Governance,0,0.0
+XOM,ExxonMobil,Energy,2024,Operational & Business Continuity,2,0.07692307692307693
+XOM,ExxonMobil,Energy,2024,Climate & ESG,5,0.19230769230769232
+XOM,ExxonMobil,Energy,2024,Strategy & M&A,3,0.11538461538461539
+XOM,ExxonMobil,Energy,2025,Macroeconomic & Market,5,0.17857142857142858
+XOM,ExxonMobil,Energy,2025,Financial & Credit,0,0.0
+XOM,ExxonMobil,Energy,2025,Regulatory & Legal,3,0.10714285714285714
+XOM,ExxonMobil,Energy,2025,Cybersecurity & Data Privacy,1,0.03571428571428571
+XOM,ExxonMobil,Energy,2025,Supply Chain & Manufacturing,1,0.03571428571428571
+XOM,ExxonMobil,Energy,2025,Competition & Demand,3,0.10714285714285714
+XOM,ExxonMobil,Energy,2025,Product & Technology,1,0.03571428571428571
+XOM,ExxonMobil,Energy,2025,International & Geopolitical,3,0.10714285714285714
+XOM,ExxonMobil,Energy,2025,People & Key Personnel,0,0.0
+XOM,ExxonMobil,Energy,2025,Stock & Governance,0,0.0
+XOM,ExxonMobil,Energy,2025,Operational & Business Continuity,2,0.07142857142857142
+XOM,ExxonMobil,Energy,2025,Climate & ESG,7,0.25
+XOM,ExxonMobil,Energy,2025,Strategy & M&A,2,0.07142857142857142
+CVX,Chevron,Energy,2019,Macroeconomic & Market,2,0.11764705882352941
+CVX,Chevron,Energy,2019,Financial & Credit,2,0.11764705882352941
+CVX,Chevron,Energy,2019,Regulatory & Legal,4,0.23529411764705882
+CVX,Chevron,Energy,2019,Cybersecurity & Data Privacy,3,0.17647058823529413
+CVX,Chevron,Energy,2019,Supply Chain & Manufacturing,0,0.0
+CVX,Chevron,Energy,2019,Competition & Demand,0,0.0
+CVX,Chevron,Energy,2019,Product & Technology,0,0.0
+CVX,Chevron,Energy,2019,International & Geopolitical,0,0.0
+CVX,Chevron,Energy,2019,People & Key Personnel,0,0.0
+CVX,Chevron,Energy,2019,Stock & Governance,0,0.0
+CVX,Chevron,Energy,2019,Operational & Business Continuity,0,0.0
+CVX,Chevron,Energy,2019,Climate & ESG,5,0.29411764705882354
+CVX,Chevron,Energy,2019,Strategy & M&A,1,0.058823529411764705
+CVX,Chevron,Energy,2020,Macroeconomic & Market,5,0.21739130434782608
+CVX,Chevron,Energy,2020,Financial & Credit,2,0.08695652173913043
+CVX,Chevron,Energy,2020,Regulatory & Legal,4,0.17391304347826086
+CVX,Chevron,Energy,2020,Cybersecurity & Data Privacy,2,0.08695652173913043
+CVX,Chevron,Energy,2020,Supply Chain & Manufacturing,0,0.0
+CVX,Chevron,Energy,2020,Competition & Demand,0,0.0
+CVX,Chevron,Energy,2020,Product & Technology,0,0.0
+CVX,Chevron,Energy,2020,International & Geopolitical,0,0.0
+CVX,Chevron,Energy,2020,People & Key Personnel,0,0.0
+CVX,Chevron,Energy,2020,Stock & Governance,0,0.0
+CVX,Chevron,Energy,2020,Operational & Business Continuity,3,0.13043478260869565
+CVX,Chevron,Energy,2020,Climate & ESG,5,0.21739130434782608
+CVX,Chevron,Energy,2020,Strategy & M&A,2,0.08695652173913043
+CVX,Chevron,Energy,2021,Macroeconomic & Market,2,0.08695652173913043
+CVX,Chevron,Energy,2021,Financial & Credit,2,0.08695652173913043
+CVX,Chevron,Energy,2021,Regulatory & Legal,7,0.30434782608695654
+CVX,Chevron,Energy,2021,Cybersecurity & Data Privacy,2,0.08695652173913043
+CVX,Chevron,Energy,2021,Supply Chain & Manufacturing,1,0.043478260869565216
+CVX,Chevron,Energy,2021,Competition & Demand,0,0.0
+CVX,Chevron,Energy,2021,Product & Technology,0,0.0
+CVX,Chevron,Energy,2021,International & Geopolitical,0,0.0
+CVX,Chevron,Energy,2021,People & Key Personnel,0,0.0
+CVX,Chevron,Energy,2021,Stock & Governance,0,0.0
+CVX,Chevron,Energy,2021,Operational & Business Continuity,3,0.13043478260869565
+CVX,Chevron,Energy,2021,Climate & ESG,6,0.2608695652173913
+CVX,Chevron,Energy,2021,Strategy & M&A,0,0.0
+CVX,Chevron,Energy,2022,Macroeconomic & Market,1,0.038461538461538464
+CVX,Chevron,Energy,2022,Financial & Credit,2,0.07692307692307693
+CVX,Chevron,Energy,2022,Regulatory & Legal,9,0.34615384615384615
+CVX,Chevron,Energy,2022,Cybersecurity & Data Privacy,2,0.07692307692307693
+CVX,Chevron,Energy,2022,Supply Chain & Manufacturing,0,0.0
+CVX,Chevron,Energy,2022,Competition & Demand,0,0.0
+CVX,Chevron,Energy,2022,Product & Technology,0,0.0
+CVX,Chevron,Energy,2022,International & Geopolitical,0,0.0
+CVX,Chevron,Energy,2022,People & Key Personnel,0,0.0
+CVX,Chevron,Energy,2022,Stock & Governance,0,0.0
+CVX,Chevron,Energy,2022,Operational & Business Continuity,4,0.15384615384615385
+CVX,Chevron,Energy,2022,Climate & ESG,7,0.2692307692307692
+CVX,Chevron,Energy,2022,Strategy & M&A,1,0.038461538461538464
+CVX,Chevron,Energy,2023,Macroeconomic & Market,2,0.07142857142857142
+CVX,Chevron,Energy,2023,Financial & Credit,1,0.03571428571428571
+CVX,Chevron,Energy,2023,Regulatory & Legal,10,0.35714285714285715
+CVX,Chevron,Energy,2023,Cybersecurity & Data Privacy,3,0.10714285714285714
+CVX,Chevron,Energy,2023,Supply Chain & Manufacturing,0,0.0
+CVX,Chevron,Energy,2023,Competition & Demand,0,0.0
+CVX,Chevron,Energy,2023,Product & Technology,0,0.0
+CVX,Chevron,Energy,2023,International & Geopolitical,0,0.0
+CVX,Chevron,Energy,2023,People & Key Personnel,0,0.0
+CVX,Chevron,Energy,2023,Stock & Governance,0,0.0
+CVX,Chevron,Energy,2023,Operational & Business Continuity,1,0.03571428571428571
+CVX,Chevron,Energy,2023,Climate & ESG,9,0.32142857142857145
+CVX,Chevron,Energy,2023,Strategy & M&A,2,0.07142857142857142
+CVX,Chevron,Energy,2024,Macroeconomic & Market,2,0.06896551724137931
+CVX,Chevron,Energy,2024,Financial & Credit,1,0.034482758620689655
+CVX,Chevron,Energy,2024,Regulatory & Legal,10,0.3448275862068966
+CVX,Chevron,Energy,2024,Cybersecurity & Data Privacy,3,0.10344827586206896
+CVX,Chevron,Energy,2024,Supply Chain & Manufacturing,0,0.0
+CVX,Chevron,Energy,2024,Competition & Demand,0,0.0
+CVX,Chevron,Energy,2024,Product & Technology,0,0.0
+CVX,Chevron,Energy,2024,International & Geopolitical,1,0.034482758620689655
+CVX,Chevron,Energy,2024,People & Key Personnel,0,0.0
+CVX,Chevron,Energy,2024,Stock & Governance,0,0.0
+CVX,Chevron,Energy,2024,Operational & Business Continuity,1,0.034482758620689655
+CVX,Chevron,Energy,2024,Climate & ESG,8,0.27586206896551724
+CVX,Chevron,Energy,2024,Strategy & M&A,3,0.10344827586206896
+CVX,Chevron,Energy,2025,Macroeconomic & Market,3,0.12
+CVX,Chevron,Energy,2025,Financial & Credit,2,0.08
+CVX,Chevron,Energy,2025,Regulatory & Legal,8,0.32
+CVX,Chevron,Energy,2025,Cybersecurity & Data Privacy,3,0.12
+CVX,Chevron,Energy,2025,Supply Chain & Manufacturing,0,0.0
+CVX,Chevron,Energy,2025,Competition & Demand,0,0.0
+CVX,Chevron,Energy,2025,Product & Technology,1,0.04
+CVX,Chevron,Energy,2025,International & Geopolitical,0,0.0
+CVX,Chevron,Energy,2025,People & Key Personnel,0,0.0
+CVX,Chevron,Energy,2025,Stock & Governance,0,0.0
+CVX,Chevron,Energy,2025,Operational & Business Continuity,1,0.04
+CVX,Chevron,Energy,2025,Climate & ESG,6,0.24
+CVX,Chevron,Energy,2025,Strategy & M&A,1,0.04
