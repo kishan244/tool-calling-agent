@@ -1,3 +1,7 @@
 anthropic>=0.40.0
 python-dotenv>=1.0.0
 ddgs>=8.0.0
+pandas>=2.2
+pyarrow>=15
+streamlit>=1.50
+plotly>=5.20

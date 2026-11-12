@@ -1,0 +1,62 @@
+name: evaluation
+
+# Runs the 44 evaluation questions against the real model. Started by hand, because it costs API money.
+# Needs the repository secret ANTHROPIC_API_KEY.
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Name of this run (folder under evals/results/)"
+        default: "round1"
+      config:
+        description: "Setup to run"
+        type: choice
+        options: [all, analyst, original, no_tools]
+        default: all
+      model:
+        description: "Model ID"
+        default: "claude-haiku-4-5-20251001"
+      limit:
+        description: "Only the first N questions of each kind (0 = all). Use 1 for a cheap trial."
+        default: "0"
+
+permissions:
+  contents: write
+
+jobs:
+  evaluate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Run the evaluation
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TAG: ${{ inputs.tag }}
+          CONFIG: ${{ inputs.config }}
+          MODEL: ${{ inputs.model }}
+          LIMIT: ${{ inputs.limit }}
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then echo "::error::Add the repository secret ANTHROPIC_API_KEY first."; exit 1; fi
+          python -m evals.run --tag "$TAG" --config "$CONFIG" --model "$MODEL" --limit "$LIMIT"
+          cat "evals/results/$TAG/summary.md" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: eval-${{ inputs.tag }}
+          path: evals/results/${{ inputs.tag }}
+      - name: Push the results as a branch for review
+        env:
+          TAG: ${{ inputs.tag }}
+        run: |
+          branch="update/eval-results-$TAG"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add "evals/results/$TAG"
+          git commit -m "Evaluation results: $TAG"
+          git push --force origin "$branch"
